@@ -1,6 +1,10 @@
 # Tests Oposiciones
 
-App Android (Jetpack Compose) de preguntas tipo test sobre la Constitución Española, el tema común de casi todas las oposiciones (Auxiliar Administrativo del Estado, Administrativo, Guardia Civil, Policía…).
+![Kotlin](https://img.shields.io/badge/Kotlin-2.2-7F52FF?logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?logo=jetpackcompose&logoColor=white) ![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?logo=android&logoColor=white)
+
+Tests de la Constitución Española para preparar oposiciones, con práctica por temas, repaso de fallos y simulacros de examen.
+
+App Android nativa desarrollada en **Kotlin** con **Jetpack Compose** (Material 3).
 
 - 136 preguntas repartidas en los 11 títulos de la Constitución, cada una con el artículo que la justifica.
 - **Práctica por temas**: 10 preguntas, primero las que aún no has acertado, con la corrección y la explicación al momento.
