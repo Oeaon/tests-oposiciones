@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium_title">Premium</string>
+    <string name="premium_back">Volver</string>
+    <string name="premium_headline">Pásate a Premium</string>
+    <string name="premium_active">Xa es Premium. Grazas polo teu apoio!</string>
+    <string name="premium_benefit_no_ads">Sen anuncios</string>
+    <string name="premium_monthly">%1$s ao mes</string>
+    <string name="premium_lifetime">%1$s, pagamento único para sempre</string>
+    <string name="premium_loading">Cargando o prezo…</string>
+    <string name="premium_store_unavailable">Non se pode conectar con Google Play. Téntao máis tarde.</string>
+    <string name="premium_restore">Restaurar compras</string>
+    <string name="premium_legal">A subscrición renóvase cada mes e podes cancelala cando queiras en Google Play.</string>
+    <string name="locked_watch_ad">Ver un anuncio e desbloquear 24 h</string>
+    <string name="locked_go_premium">Faite Premium</string>
+    <string name="rewarded_unavailable">Agora mesmo non hai ningún anuncio dispoñible. Proba dentro dun anaco.</string>
+</resources>

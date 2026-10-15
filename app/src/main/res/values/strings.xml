@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tests Oposiciones</string>
+    <string name="settings">Ajustes</string>
+    <string name="load_error">No se han podido cargar las preguntas.</string>
+    <string name="mastery">Dominas %1$d de %2$d preguntas</string>
+    <string name="streak_none">Haz un test hoy para empezar tu racha.</string>
+    <string name="best_exam">Mejor nota en simulacro: %1$s</string>
+    <string name="quick_test">Test rápido (%1$d)</string>
+    <string name="review_failed">Repasar fallos (%1$d)</string>
+    <string name="exam_title">Simulacro de examen</string>
+    <string name="exam_locked">Examen de %1$d preguntas en %2$d minutos, con penalización por fallo como en las oposiciones de la Administración del Estado.</string>
+    <string name="exam_description">%1$d preguntas de todos los temas, %2$d minutos. Cada fallo resta un tercio de acierto.</string>
+    <string name="exam_start">Empezar simulacro</string>
+    <string name="topics">Temas</string>
+    <string name="topic_stats">%1$d preguntas · %2$d %% dominado</string>
+    <string name="question_of">Pregunta %1$d de %2$d</string>
+    <string name="quit_test">Salir del test</string>
+    <string name="quit_test_text">Si sales ahora no se guardará este test.</string>
+    <string name="quit">Salir</string>
+    <string name="keep_going">Seguir</string>
+    <string name="answer_right">¡Correcto!</string>
+    <string name="answer_wrong">Incorrecto</string>
+    <string name="previous">Anterior</string>
+    <string name="next">Siguiente</string>
+    <string name="finish">Terminar</string>
+    <string name="finish_exam_now">Entregar examen</string>
+    <string name="finish_exam_text">Has contestado %1$d de %2$d preguntas. Las que estén en blanco no restan.</string>
+    <string name="results">Resultado</string>
+    <string name="score">Nota: %1$s</string>
+    <string name="result_counts">%1$d aciertos · %2$d fallos · %3$d en blanco</string>
+    <string name="result_penalty">Aciertos netos tras la penalización: %1$s</string>
+    <string name="back_home">Volver al inicio</string>
+    <string name="your_mistakes">Tus fallos</string>
+    <string name="your_answer">Tu respuesta: %1$s</string>
+    <string name="correct_answer">Correcta: %1$s</string>
+    <string name="reset_progress">Borrar mi progreso</string>
+    <string name="reset_progress_text">Se borrarán tus aciertos, fallos, racha y mejor nota. No se puede deshacer.</string>
+    <string name="reset">Borrar</string>
+    <string name="premium_feature_exam">Simulacros de examen con tiempo y penalización</string>
+    <string name="premium_settings_text">Quita los anuncios y desbloquea los simulacros de examen.</string>
+    <string name="remove_ads">Quitar anuncios</string>
+    <string name="privacy_options">Opciones de privacidad de anuncios</string>
+    <string name="about_title">Acerca de</string>
+    <string name="about_text">Preguntas tipo test sobre la Constitución Española para preparar oposiciones. Las preguntas están en castellano, como en los exámenes de la Administración General del Estado. App independiente, sin relación con ningún organismo público.</string>
+    <string name="version">Versión %1$s</string>
+    <plurals name="streak">
+        <item quantity="one">🔥 %d día seguido estudiando</item>
+        <item quantity="other">🔥 %d días seguidos estudiando</item>
+    </plurals>
+</resources>

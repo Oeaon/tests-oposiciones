@@ -1,0 +1,6 @@
+# Copia este archivo como admob.properties (no se sube a git) y pon los IDs de AdMob de esta app.
+APP_ID=ca-app-pub-XXXXXXXXXXXXXXXX~XXXXXXXXXX
+BANNER=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
+INTERSTITIAL=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
+APP_OPEN=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
+REWARDED=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX

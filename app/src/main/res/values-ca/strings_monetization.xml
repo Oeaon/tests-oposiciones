@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium_title">Premium</string>
+    <string name="premium_back">Tornar</string>
+    <string name="premium_headline">Passa\'t a Premium</string>
+    <string name="premium_active">Ja ets Premium. Gràcies pel teu suport!</string>
+    <string name="premium_benefit_no_ads">Sense anuncis</string>
+    <string name="premium_monthly">%1$s al mes</string>
+    <string name="premium_lifetime">%1$s, pagament únic per sempre</string>
+    <string name="premium_loading">Carregant el preu…</string>
+    <string name="premium_store_unavailable">No es pot connectar amb Google Play. Torna-ho a provar més tard.</string>
+    <string name="premium_restore">Restaura les compres</string>
+    <string name="premium_legal">La subscripció es renova cada mes i la pots cancel·lar quan vulguis a Google Play.</string>
+    <string name="locked_watch_ad">Mira un anunci i desbloqueja-ho 24 h</string>
+    <string name="locked_go_premium">Fes-te Premium</string>
+    <string name="rewarded_unavailable">Ara mateix no hi ha cap anunci disponible. Prova-ho d\'aquí a una estona.</string>
+</resources>

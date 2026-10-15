@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium_title">Premium</string>
+    <string name="premium_back">Volver</string>
+    <string name="premium_headline">Pásate a Premium</string>
+    <string name="premium_active">Ya eres Premium. ¡Gracias por tu apoyo!</string>
+    <string name="premium_benefit_no_ads">Sin anuncios</string>
+    <string name="premium_monthly">%1$s al mes</string>
+    <string name="premium_lifetime">%1$s, pago único para siempre</string>
+    <string name="premium_loading">Cargando precio…</string>
+    <string name="premium_store_unavailable">No se puede conectar con Google Play. Inténtalo más tarde.</string>
+    <string name="premium_restore">Restaurar compras</string>
+    <string name="premium_legal">La suscripción se renueva cada mes y puedes cancelarla cuando quieras en Google Play.</string>
+    <string name="locked_watch_ad">Ver un anuncio y desbloquear 24 h</string>
+    <string name="locked_go_premium">Hazte Premium</string>
+    <string name="rewarded_unavailable">No hay ningún anuncio disponible ahora mismo. Prueba dentro de un rato.</string>
+</resources>

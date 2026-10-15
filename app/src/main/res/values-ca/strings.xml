@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tests Oposiciones</string>
+    <string name="settings">Configuració</string>
+    <string name="load_error">No s\'han pogut carregar les preguntes.</string>
+    <string name="mastery">Domines %1$d de %2$d preguntes</string>
+    <string name="streak_none">Fes un test avui per començar la teva ratxa.</string>
+    <string name="best_exam">Millor nota en simulacre: %1$s</string>
+    <string name="quick_test">Test ràpid (%1$d)</string>
+    <string name="review_failed">Repassa errors (%1$d)</string>
+    <string name="exam_title">Simulacre d\'examen</string>
+    <string name="exam_locked">Examen de %1$d preguntes en %2$d minuts, amb penalització per error com a les oposicions de l\'Administració de l\'Estat.</string>
+    <string name="exam_description">%1$d preguntes de tots els temes, %2$d minuts. Cada error resta un terç d\'encert.</string>
+    <string name="exam_start">Comença el simulacre</string>
+    <string name="topics">Temes</string>
+    <string name="topic_stats">%1$d preguntes · %2$d %% dominat</string>
+    <string name="question_of">Pregunta %1$d de %2$d</string>
+    <string name="quit_test">Surt del test</string>
+    <string name="quit_test_text">Si surts ara no es desarà aquest test.</string>
+    <string name="quit">Surt</string>
+    <string name="keep_going">Continua</string>
+    <string name="answer_right">Correcte!</string>
+    <string name="answer_wrong">Incorrecte</string>
+    <string name="previous">Anterior</string>
+    <string name="next">Següent</string>
+    <string name="finish">Acaba</string>
+    <string name="finish_exam_now">Lliura l\'examen</string>
+    <string name="finish_exam_text">Has contestat %1$d de %2$d preguntes. Les que estiguin en blanc no resten.</string>
+    <string name="results">Resultat</string>
+    <string name="score">Nota: %1$s</string>
+    <string name="result_counts">%1$d encerts · %2$d errors · %3$d en blanc</string>
+    <string name="result_penalty">Encerts nets després de la penalització: %1$s</string>
+    <string name="back_home">Torna a l\'inici</string>
+    <string name="your_mistakes">Els teus errors</string>
+    <string name="your_answer">La teva resposta: %1$s</string>
+    <string name="correct_answer">Correcta: %1$s</string>
+    <string name="reset_progress">Esborra el meu progrés</string>
+    <string name="reset_progress_text">S\'esborraran els teus encerts, errors, ratxa i millor nota. No es pot desfer.</string>
+    <string name="reset">Esborra</string>
+    <string name="premium_feature_exam">Simulacres d\'examen amb temps i penalització</string>
+    <string name="premium_settings_text">Treu els anuncis i desbloqueja els simulacres d\'examen.</string>
+    <string name="remove_ads">Treure els anuncis</string>
+    <string name="privacy_options">Opcions de privadesa dels anuncis</string>
+    <string name="about_title">Quant a</string>
+    <string name="about_text">Preguntes tipus test sobre la Constitució Espanyola per preparar oposicions. Les preguntes són en castellà, com als exàmens de l\'Administració General de l\'Estat. App independent, sense relació amb cap organisme públic.</string>
+    <string name="version">Versió %1$s</string>
+    <plurals name="streak">
+        <item quantity="one">🔥 %d dia seguit estudiant</item>
+        <item quantity="other">🔥 %d dies seguits estudiant</item>
+    </plurals>
+</resources>

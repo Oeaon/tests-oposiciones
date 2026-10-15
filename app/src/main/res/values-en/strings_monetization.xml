@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="premium_title">Premium</string>
+    <string name="premium_back">Back</string>
+    <string name="premium_headline">Go Premium</string>
+    <string name="premium_active">You are Premium. Thanks for your support!</string>
+    <string name="premium_benefit_no_ads">No ads</string>
+    <string name="premium_monthly">%1$s per month</string>
+    <string name="premium_lifetime">%1$s, one-off payment forever</string>
+    <string name="premium_loading">Loading price…</string>
+    <string name="premium_store_unavailable">Cannot connect to Google Play. Try again later.</string>
+    <string name="premium_restore">Restore purchases</string>
+    <string name="premium_legal">The subscription renews every month and you can cancel it at any time on Google Play.</string>
+    <string name="locked_watch_ad">Watch an ad to unlock for 24 h</string>
+    <string name="locked_go_premium">Go Premium</string>
+    <string name="rewarded_unavailable">No ad is available right now. Try again in a while.</string>
+</resources>
