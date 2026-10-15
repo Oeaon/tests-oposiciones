@@ -1,9 +1,7 @@
 import java.util.Properties
-import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 
 plugins {
     alias(libs.plugins.android.application)
-    alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
 }
 
@@ -64,6 +62,7 @@ android {
         }
     }
 
+    // Bytecode Java 17 para Android; Gradle puede ejecutarse con cualquier JDK de 17 a 25.
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
@@ -75,11 +74,6 @@ android {
     }
 }
 
-kotlin {
-    compilerOptions {
-        jvmTarget.set(JvmTarget.JVM_17)
-    }
-}
 
 dependencies {
     implementation(project(":core"))

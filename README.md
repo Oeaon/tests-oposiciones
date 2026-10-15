@@ -58,7 +58,7 @@ app/    Android: Compose, ViewModel y DataStore
 
 ## Compilar
 
-Requisitos: Android Studio reciente (JDK 17+), Android SDK 36.
+Requisitos: Android Studio reciente, Android SDK 36 y un JDK entre el 17 y el 25 (probado con Java 25). Gradle 9.7, Android Gradle Plugin 9.4 (con Kotlin integrado) y Kotlin 2.3.
 
 ```bash
 ./gradlew :core:test        # tests de la lógica y del banco de preguntas
