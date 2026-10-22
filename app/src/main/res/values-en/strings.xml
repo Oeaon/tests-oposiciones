@@ -42,7 +42,7 @@
     <string name="remove_ads">Remove ads</string>
     <string name="privacy_options">Ad privacy options</string>
     <string name="about_title">About</string>
-    <string name="about_text">Multiple-choice questions on the Spanish Constitution to prepare for civil service exams. Questions are in Spanish, as in the State General Administration exams. Independent app, not affiliated with any public body.</string>
+    <string name="about_text">Multiple-choice questions on the Spanish Constitution and Laws 39/2015 and 40/2015 to prepare for civil service exams. Questions are in Spanish, as in the State General Administration exams. Independent app, not affiliated with any public body.</string>
     <string name="version">Version %1$s</string>
     <plurals name="streak">
         <item quantity="one">🔥 %d day in a row studying</item>

@@ -8,18 +8,18 @@ import kotlinx.coroutines.sync.Mutex
 import kotlinx.coroutines.sync.withLock
 import kotlinx.coroutines.withContext
 
-/** Banco de preguntas incluido en la app (assets), leído una sola vez. */
+/** Temarios incluidos en la app (assets), leídos una sola vez y en este orden. */
 class QuestionRepository(private val assets: AssetManager) {
     private val mutex = Mutex()
-    private var bank: QuestionBank? = null
+    private var banks: List<QuestionBank>? = null
 
-    suspend fun bank(): QuestionBank = mutex.withLock {
-        bank ?: withContext(Dispatchers.IO) {
-            QuestionBankParser.parse(assets.open(FILE).bufferedReader().use { it.readText() })
-        }.also { bank = it }
+    suspend fun banks(): List<QuestionBank> = mutex.withLock {
+        banks ?: withContext(Dispatchers.IO) {
+            FILES.map { file -> QuestionBankParser.parse(assets.open(file).bufferedReader().use { it.readText() }) }
+        }.also { banks = it }
     }
 
     private companion object {
-        const val FILE = "constitucion.json"
+        val FILES = listOf("constitucion.json", "ley39.json", "ley40.json")
     }
 }

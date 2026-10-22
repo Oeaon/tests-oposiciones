@@ -1,0 +1,826 @@
+{
+ "id": "l39",
+ "shortTitle": "Ley 39/2015",
+ "title": "Ley 39/2015, del Procedimiento Administrativo Común",
+ "source": "Preguntas originales redactadas a partir del texto de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE núm. 236, de 2 de octubre de 2015).",
+ "topics": [
+  {
+   "id": "l39-generales",
+   "title": "Título Preliminar. Disposiciones generales"
+  },
+  {
+   "id": "l39-interesados",
+   "title": "Título I. Los interesados en el procedimiento"
+  },
+  {
+   "id": "l39-actividad",
+   "title": "Título II. Actividad de las Administraciones Públicas"
+  },
+  {
+   "id": "l39-plazos",
+   "title": "Título II. Términos y plazos"
+  },
+  {
+   "id": "l39-actos",
+   "title": "Título III. Los actos administrativos"
+  },
+  {
+   "id": "l39-invalidez",
+   "title": "Título III. Nulidad y anulabilidad"
+  },
+  {
+   "id": "l39-procedimiento",
+   "title": "Título IV. El procedimiento administrativo común"
+  },
+  {
+   "id": "l39-revision",
+   "title": "Título V. Revisión de oficio y recursos"
+  },
+  {
+   "id": "l39-iniciativa",
+   "title": "Título VI. Iniciativa legislativa y potestad reglamentaria"
+  }
+ ],
+ "questions": [
+  {
+   "id": "l39-001",
+   "topic": "l39-generales",
+   "question": "La Ley 39/2015 entró en vigor:",
+   "options": [
+    "Al año de su publicación en el BOE",
+    "A los veinte días de su publicación",
+    "El mismo día de su publicación",
+    "El 1 de enero de 2016"
+   ],
+   "explanation": "Disposición final séptima de la Ley 39/2015 (publicada el 2 de octubre de 2015)."
+  },
+  {
+   "id": "l39-002",
+   "topic": "l39-generales",
+   "question": "¿Cuál de estas materias NO es objeto de la Ley 39/2015 según su artículo 1?",
+   "options": [
+    "La organización y funcionamiento de la Administración General del Estado",
+    "Los requisitos de validez y eficacia de los actos administrativos",
+    "El procedimiento administrativo común, incluido el sancionador",
+    "Los principios del ejercicio de la iniciativa legislativa y la potestad reglamentaria"
+   ],
+   "explanation": "Art. 1.1. La organización de la AGE la regula la Ley 40/2015."
+  },
+  {
+   "id": "l39-003",
+   "topic": "l39-generales",
+   "question": "Según el artículo 2, el sector público comprende la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades de la Administración Local y:",
+   "options": [
+    "El sector público institucional",
+    "Las Cortes Generales",
+    "El Poder Judicial",
+    "Las empresas privadas que presten servicios públicos"
+   ],
+   "explanation": "Art. 2.1."
+  },
+  {
+   "id": "l39-004",
+   "topic": "l39-interesados",
+   "question": "Tienen capacidad de obrar ante las Administraciones, además de quienes la ostenten con arreglo a las normas civiles:",
+   "options": [
+    "Los menores de edad para el ejercicio y defensa de los derechos cuya actuación esté permitida sin asistencia de quien ejerza la patria potestad",
+    "Solo los mayores de 16 años emancipados",
+    "Ninguna otra persona",
+    "Los extranjeros con residencia legal, exclusivamente"
+   ],
+   "explanation": "Art. 3.b."
+  },
+  {
+   "id": "l39-005",
+   "topic": "l39-interesados",
+   "question": "Según el artículo 4, ¿quién NO se considera interesado en el procedimiento?",
+   "options": [
+    "Quien tenga un interés simplemente indirecto en el asunto y no se persone",
+    "Quien lo promueva como titular de derechos o intereses legítimos",
+    "Quien, sin haberlo iniciado, tenga derechos que puedan resultar afectados por la decisión",
+    "Quien tenga intereses legítimos que puedan resultar afectados y se persone antes de la resolución definitiva"
+   ],
+   "explanation": "Art. 4.1."
+  },
+  {
+   "id": "l39-006",
+   "topic": "l39-interesados",
+   "question": "La representación debe acreditarse para:",
+   "options": [
+    "Formular solicitudes, presentar declaraciones responsables, interponer recursos, desistir y renunciar a derechos",
+    "Cualquier actuación, incluidos los actos de mero trámite",
+    "Solo para interponer recursos",
+    "Solo cuando lo pida un funcionario"
+   ],
+   "explanation": "Art. 5.3. Para los actos de mero trámite la representación se presume."
+  },
+  {
+   "id": "l39-007",
+   "topic": "l39-interesados",
+   "question": "Los poderes inscritos en el registro electrónico de apoderamientos tienen una validez máxima de:",
+   "options": [
+    "Cinco años",
+    "Un año",
+    "Diez años",
+    "Indefinida"
+   ],
+   "explanation": "Art. 6.6."
+  },
+  {
+   "id": "l39-008",
+   "topic": "l39-interesados",
+   "question": "Si en una solicitud figuran varios interesados y no han señalado representante, las actuaciones se efectúan con:",
+   "options": [
+    "El que figure en primer término",
+    "Todos ellos a la vez",
+    "El de mayor edad",
+    "El que elija la Administración"
+   ],
+   "explanation": "Art. 7."
+  },
+  {
+   "id": "l39-009",
+   "topic": "l39-interesados",
+   "question": "¿Quién NO está obligado a relacionarse electrónicamente con las Administraciones?",
+   "options": [
+    "Las personas físicas en general",
+    "Las personas jurídicas",
+    "Las entidades sin personalidad jurídica",
+    "Los empleados públicos en los trámites que hagan por su condición de empleado"
+   ],
+   "explanation": "Art. 14. Las personas físicas pueden elegir, salvo que estén obligadas."
+  },
+  {
+   "id": "l39-010",
+   "topic": "l39-actividad",
+   "question": "La lengua de los procedimientos tramitados por la Administración General del Estado es:",
+   "options": [
+    "El castellano, aunque los interesados que se dirijan a sus órganos con sede en una Comunidad Autónoma pueden usar la lengua cooficial",
+    "Siempre el castellano, sin excepción",
+    "La lengua que elija el funcionario",
+    "La lengua cooficial de la Comunidad donde se tramite, siempre"
+   ],
+   "explanation": "Art. 15.1."
+  },
+  {
+   "id": "l39-011",
+   "topic": "l39-actividad",
+   "question": "¿Dónde NO se pueden presentar documentos dirigidos a las Administraciones según el artículo 16.4?",
+   "options": [
+    "En cualquier notaría",
+    "En las oficinas de Correos",
+    "En las representaciones diplomáticas u oficinas consulares de España en el extranjero",
+    "En las oficinas de asistencia en materia de registros"
+   ],
+   "explanation": "Art. 16.4."
+  },
+  {
+   "id": "l39-012",
+   "topic": "l39-actividad",
+   "question": "Según el artículo 21, la Administración está obligada a:",
+   "options": [
+    "Dictar resolución expresa y notificarla en todos los procedimientos, cualquiera que sea su forma de iniciación",
+    "Resolver solo los procedimientos iniciados a solicitud del interesado",
+    "Resolver solo cuando el interesado lo reclame",
+    "Resolver expresamente solo los recursos"
+   ],
+   "explanation": "Art. 21.1, con las excepciones que indica (prescripción, renuncia, caducidad, desistimiento…)."
+  },
+  {
+   "id": "l39-013",
+   "topic": "l39-actividad",
+   "question": "El plazo máximo para resolver que fije la norma reguladora no puede exceder de:",
+   "options": [
+    "Seis meses, salvo que una ley o el Derecho de la Unión Europea establezca otro",
+    "Tres meses",
+    "Un año",
+    "Dos meses"
+   ],
+   "explanation": "Art. 21.2."
+  },
+  {
+   "id": "l39-014",
+   "topic": "l39-actividad",
+   "question": "Si la norma reguladora no fija el plazo máximo para resolver, este será de:",
+   "options": [
+    "Tres meses",
+    "Seis meses",
+    "Un mes",
+    "Treinta días hábiles"
+   ],
+   "explanation": "Art. 21.3."
+  },
+  {
+   "id": "l39-015",
+   "topic": "l39-actividad",
+   "question": "Como regla general, en los procedimientos iniciados a solicitud del interesado, el silencio administrativo es:",
+   "options": [
+    "Estimatorio",
+    "Desestimatorio",
+    "Siempre desestimatorio salvo en materia de subvenciones",
+    "No produce efecto alguno"
+   ],
+   "explanation": "Art. 24.1."
+  },
+  {
+   "id": "l39-016",
+   "topic": "l39-actividad",
+   "question": "¿En cuál de estos procedimientos iniciados a solicitud el silencio tiene efecto desestimatorio?",
+   "options": [
+    "Los de responsabilidad patrimonial de las Administraciones",
+    "Las solicitudes de licencias de actividad en general",
+    "Cualquier solicitud de inscripción en un registro",
+    "Todas las solicitudes presentadas por personas jurídicas"
+   ],
+   "explanation": "Art. 24.1, segundo párrafo."
+  },
+  {
+   "id": "l39-017",
+   "topic": "l39-actividad",
+   "question": "Si una solicitud se desestima por silencio y se interpone recurso de alzada que tampoco se resuelve en plazo, el recurso se entiende:",
+   "options": [
+    "Estimado",
+    "Desestimado",
+    "Caducado",
+    "Inadmitido"
+   ],
+   "explanation": "Art. 24.1, tercer párrafo."
+  },
+  {
+   "id": "l39-018",
+   "topic": "l39-actividad",
+   "question": "En los procedimientos sancionadores iniciados de oficio, si vence el plazo sin resolución expresa se produce:",
+   "options": [
+    "La caducidad",
+    "El silencio positivo",
+    "La prescripción de la infracción",
+    "La estimación de las alegaciones"
+   ],
+   "explanation": "Art. 25.1.b."
+  },
+  {
+   "id": "l39-019",
+   "topic": "l39-plazos",
+   "question": "Cuando los plazos se señalan por días, se entiende que son:",
+   "options": [
+    "Hábiles, excluyendo sábados, domingos y festivos",
+    "Naturales",
+    "Hábiles, excluyendo solo domingos y festivos",
+    "Hábiles, excluyendo agosto"
+   ],
+   "explanation": "Art. 30.2."
+  },
+  {
+   "id": "l39-020",
+   "topic": "l39-plazos",
+   "question": "Los plazos señalados por horas no pueden durar más de:",
+   "options": [
+    "24 horas; si no, se expresan en días",
+    "48 horas",
+    "72 horas",
+    "12 horas"
+   ],
+   "explanation": "Art. 30.1."
+  },
+  {
+   "id": "l39-021",
+   "topic": "l39-plazos",
+   "question": "Un plazo fijado en meses concluye:",
+   "options": [
+    "El mismo día en que se produjo la notificación en el mes de vencimiento",
+    "El día anterior al de la notificación en el mes de vencimiento",
+    "Al cumplirse treinta días hábiles",
+    "El último día del mes de vencimiento, siempre"
+   ],
+   "explanation": "Art. 30.4. Si no hay día equivalente, concluye el último día del mes."
+  },
+  {
+   "id": "l39-022",
+   "topic": "l39-plazos",
+   "question": "La ampliación de los plazos establecidos no puede exceder de:",
+   "options": [
+    "La mitad de los mismos",
+    "El doble de los mismos",
+    "Diez días",
+    "Un mes"
+   ],
+   "explanation": "Art. 32.1."
+  },
+  {
+   "id": "l39-023",
+   "topic": "l39-plazos",
+   "question": "Contra el acuerdo que resuelva sobre la ampliación de plazos:",
+   "options": [
+    "No cabe recurso",
+    "Cabe recurso de alzada",
+    "Cabe recurso potestativo de reposición",
+    "Cabe recurso extraordinario de revisión"
+   ],
+   "explanation": "Art. 32.3."
+  },
+  {
+   "id": "l39-024",
+   "topic": "l39-plazos",
+   "question": "Con la tramitación de urgencia, los plazos se reducen:",
+   "options": [
+    "A la mitad, salvo los de presentación de solicitudes y recursos",
+    "A un tercio",
+    "A la mitad, incluidos los de recurso",
+    "A cinco días"
+   ],
+   "explanation": "Art. 33.1."
+  },
+  {
+   "id": "l39-025",
+   "topic": "l39-actos",
+   "question": "Los actos administrativos se producen, como regla general:",
+   "options": [
+    "Por escrito a través de medios electrónicos",
+    "De forma verbal",
+    "En papel con firma manuscrita",
+    "Por cualquier medio, a elección del órgano"
+   ],
+   "explanation": "Art. 36.1."
+  },
+  {
+   "id": "l39-026",
+   "topic": "l39-actos",
+   "question": "Los actos de las Administraciones sujetos al Derecho Administrativo se presumen válidos y producen efectos:",
+   "options": [
+    "Desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa",
+    "Desde su publicación en el BOE",
+    "Desde que son firmes",
+    "A los diez días de dictarse"
+   ],
+   "explanation": "Art. 39.1."
+  },
+  {
+   "id": "l39-027",
+   "topic": "l39-actos",
+   "question": "¿Cuál de estos actos debe estar motivado según el artículo 35?",
+   "options": [
+    "Los que resuelvan recursos administrativos",
+    "Todos los actos de trámite",
+    "Las felicitaciones institucionales",
+    "Los actos que estimen íntegramente una solicitud sin oposición de terceros"
+   ],
+   "explanation": "Art. 35.1.b."
+  },
+  {
+   "id": "l39-028",
+   "topic": "l39-actos",
+   "question": "La notificación debe cursarse dentro del plazo de:",
+   "options": [
+    "Diez días desde que se dictó el acto",
+    "Quince días",
+    "Un mes",
+    "Tres días"
+   ],
+   "explanation": "Art. 40.2."
+  },
+  {
+   "id": "l39-029",
+   "topic": "l39-actos",
+   "question": "Una notificación electrónica se entiende rechazada cuando pasan sin acceder a su contenido:",
+   "options": [
+    "Diez días naturales desde su puesta a disposición",
+    "Quince días hábiles",
+    "Cinco días hábiles",
+    "Un mes"
+   ],
+   "explanation": "Art. 43.2."
+  },
+  {
+   "id": "l39-030",
+   "topic": "l39-actos",
+   "question": "Si en una notificación en papel no hay nadie en el domicilio, se repite:",
+   "options": [
+    "Una sola vez y en hora distinta dentro de los tres días siguientes",
+    "Hasta tres veces en el mismo día",
+    "Una sola vez al mes siguiente",
+    "No se repite: se publica directamente en el BOE"
+   ],
+   "explanation": "Art. 42.2."
+  },
+  {
+   "id": "l39-031",
+   "topic": "l39-actos",
+   "question": "Cuando los interesados son desconocidos o no se ha podido practicar la notificación, esta se hace:",
+   "options": [
+    "Por un anuncio publicado en el Boletín Oficial del Estado",
+    "Por un anuncio en un periódico de tirada nacional",
+    "Por correo ordinario",
+    "En el tablón del Ayuntamiento exclusivamente"
+   ],
+   "explanation": "Art. 44."
+  },
+  {
+   "id": "l39-032",
+   "topic": "l39-invalidez",
+   "question": "Es causa de nulidad de pleno derecho:",
+   "options": [
+    "Haberse dictado prescindiendo total y absolutamente del procedimiento legalmente establecido",
+    "Cualquier infracción del ordenamiento jurídico",
+    "La desviación de poder",
+    "Haberse dictado fuera del plazo establecido"
+   ],
+   "explanation": "Art. 47.1.e."
+  },
+  {
+   "id": "l39-033",
+   "topic": "l39-invalidez",
+   "question": "Son nulos de pleno derecho los actos dictados por órgano manifiestamente incompetente por razón de:",
+   "options": [
+    "La materia o del territorio",
+    "La jerarquía",
+    "La cuantía",
+    "El tiempo"
+   ],
+   "explanation": "Art. 47.1.b."
+  },
+  {
+   "id": "l39-034",
+   "topic": "l39-invalidez",
+   "question": "Los actos que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder, son:",
+   "options": [
+    "Anulables",
+    "Nulos de pleno derecho",
+    "Inexistentes",
+    "Válidos hasta que se recurran ante el Tribunal Constitucional"
+   ],
+   "explanation": "Art. 48.1."
+  },
+  {
+   "id": "l39-035",
+   "topic": "l39-invalidez",
+   "question": "El defecto de forma solo determina la anulabilidad cuando:",
+   "options": [
+    "El acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados",
+    "Lo alegue el interesado",
+    "Lo declare el superior jerárquico",
+    "Se produzca en un procedimiento sancionador"
+   ],
+   "explanation": "Art. 48.2."
+  },
+  {
+   "id": "l39-036",
+   "topic": "l39-invalidez",
+   "question": "La Administración puede convalidar:",
+   "options": [
+    "Los actos anulables, subsanando los vicios de que adolezcan",
+    "Los actos nulos de pleno derecho",
+    "Solo los actos favorables",
+    "Cualquier acto, nulo o anulable"
+   ],
+   "explanation": "Art. 52.1."
+  },
+  {
+   "id": "l39-037",
+   "topic": "l39-procedimiento",
+   "question": "Los procedimientos se pueden iniciar:",
+   "options": [
+    "De oficio o a solicitud del interesado",
+    "Solo de oficio",
+    "Solo a solicitud del interesado",
+    "De oficio, a solicitud o por sorteo"
+   ],
+   "explanation": "Art. 54."
+  },
+  {
+   "id": "l39-038",
+   "topic": "l39-procedimiento",
+   "question": "¿Cuál de estas NO es una forma de iniciación de oficio según el artículo 58?",
+   "options": [
+    "Por resolución judicial firme",
+    "Por propia iniciativa del órgano competente",
+    "Como consecuencia de orden superior",
+    "Por denuncia"
+   ],
+   "explanation": "Art. 58: propia iniciativa, orden superior, petición razonada de otros órganos o denuncia."
+  },
+  {
+   "id": "l39-039",
+   "topic": "l39-procedimiento",
+   "question": "Si una solicitud no reúne los requisitos, se requiere al interesado para que subsane en un plazo de:",
+   "options": [
+    "Diez días, indicándole que si no lo hace se le tendrá por desistido",
+    "Quince días",
+    "Cinco días",
+    "Un mes"
+   ],
+   "explanation": "Art. 68.1."
+  },
+  {
+   "id": "l39-040",
+   "topic": "l39-procedimiento",
+   "question": "El plazo de subsanación de las solicitudes puede ampliarse hasta:",
+   "options": [
+    "Cinco días, salvo en procedimientos selectivos o de concurrencia competitiva",
+    "Diez días",
+    "Quince días",
+    "Un mes"
+   ],
+   "explanation": "Art. 68.2."
+  },
+  {
+   "id": "l39-041",
+   "topic": "l39-procedimiento",
+   "question": "Salvo disposición expresa en contrario, los informes son:",
+   "options": [
+    "Facultativos y no vinculantes",
+    "Preceptivos y vinculantes",
+    "Preceptivos y no vinculantes",
+    "Facultativos y vinculantes"
+   ],
+   "explanation": "Art. 80.1."
+  },
+  {
+   "id": "l39-042",
+   "topic": "l39-procedimiento",
+   "question": "Salvo disposición en contrario, los informes se emiten en un plazo de:",
+   "options": [
+    "Diez días",
+    "Quince días",
+    "Un mes",
+    "Cinco días"
+   ],
+   "explanation": "Art. 80.2."
+  },
+  {
+   "id": "l39-043",
+   "topic": "l39-procedimiento",
+   "question": "El plazo del trámite de audiencia a los interesados es:",
+   "options": [
+    "No inferior a diez días ni superior a quince",
+    "No inferior a cinco días ni superior a diez",
+    "De veinte días",
+    "De un mes"
+   ],
+   "explanation": "Art. 82.2."
+  },
+  {
+   "id": "l39-044",
+   "topic": "l39-procedimiento",
+   "question": "El plazo de información pública no puede ser inferior a:",
+   "options": [
+    "Veinte días",
+    "Diez días",
+    "Quince días",
+    "Un mes"
+   ],
+   "explanation": "Art. 83.2."
+  },
+  {
+   "id": "l39-045",
+   "topic": "l39-procedimiento",
+   "question": "¿Cuál NO es una forma de terminación del procedimiento según el artículo 84?",
+   "options": [
+    "La avocación",
+    "La resolución",
+    "El desistimiento",
+    "La declaración de caducidad"
+   ],
+   "explanation": "Art. 84.1: resolución, desistimiento, renuncia, caducidad e imposibilidad material de continuar."
+  },
+  {
+   "id": "l39-046",
+   "topic": "l39-procedimiento",
+   "question": "En los procedimientos a solicitud, si se paralizan por causa imputable al interesado, se produce la caducidad pasados:",
+   "options": [
+    "Tres meses desde la advertencia de la Administración",
+    "Un mes",
+    "Seis meses",
+    "Treinta días hábiles"
+   ],
+   "explanation": "Art. 95.1."
+  },
+  {
+   "id": "l39-047",
+   "topic": "l39-procedimiento",
+   "question": "Los procedimientos tramitados de manera simplificada deben resolverse en:",
+   "options": [
+    "Treinta días desde el día siguiente al acuerdo de tramitación simplificada",
+    "Quince días",
+    "Tres meses",
+    "Diez días"
+   ],
+   "explanation": "Art. 96.6."
+  },
+  {
+   "id": "l39-048",
+   "topic": "l39-revision",
+   "question": "La revisión de oficio de los actos nulos requiere el dictamen favorable de:",
+   "options": [
+    "El Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma",
+    "El Tribunal Supremo",
+    "El Defensor del Pueblo",
+    "El Ministerio Fiscal"
+   ],
+   "explanation": "Art. 106.1."
+  },
+  {
+   "id": "l39-049",
+   "topic": "l39-revision",
+   "question": "La declaración de lesividad de los actos anulables favorables puede adoptarse en el plazo de:",
+   "options": [
+    "Cuatro años desde que se dictó el acto",
+    "Un año",
+    "Seis meses",
+    "Diez años"
+   ],
+   "explanation": "Art. 107.2. Después debe impugnarse ante la jurisdicción contencioso-administrativa."
+  },
+  {
+   "id": "l39-050",
+   "topic": "l39-revision",
+   "question": "Los errores materiales, de hecho o aritméticos pueden rectificarse:",
+   "options": [
+    "En cualquier momento, de oficio o a instancia de los interesados",
+    "Solo en el plazo de un mes",
+    "Solo mediante recurso de reposición",
+    "Solo con autorización judicial"
+   ],
+   "explanation": "Art. 109.2."
+  },
+  {
+   "id": "l39-051",
+   "topic": "l39-revision",
+   "question": "El recurso de alzada se interpone contra:",
+   "options": [
+    "Resoluciones y actos de trámite cualificados que no pongan fin a la vía administrativa",
+    "Actos que pongan fin a la vía administrativa",
+    "Disposiciones de carácter general",
+    "Actos firmes"
+   ],
+   "explanation": "Art. 121.1."
+  },
+  {
+   "id": "l39-052",
+   "topic": "l39-revision",
+   "question": "El plazo para interponer el recurso de alzada contra un acto expreso es de:",
+   "options": [
+    "Un mes",
+    "Dos meses",
+    "Quince días",
+    "Tres meses"
+   ],
+   "explanation": "Art. 122.1."
+  },
+  {
+   "id": "l39-053",
+   "topic": "l39-revision",
+   "question": "El plazo máximo para dictar y notificar la resolución del recurso de alzada es:",
+   "options": [
+    "Tres meses",
+    "Un mes",
+    "Seis meses",
+    "Dos meses"
+   ],
+   "explanation": "Art. 122.2."
+  },
+  {
+   "id": "l39-054",
+   "topic": "l39-revision",
+   "question": "El recurso potestativo de reposición se interpone ante:",
+   "options": [
+    "El mismo órgano que dictó el acto",
+    "El superior jerárquico",
+    "El Consejo de Estado",
+    "El Defensor del Pueblo"
+   ],
+   "explanation": "Art. 123.1."
+  },
+  {
+   "id": "l39-055",
+   "topic": "l39-revision",
+   "question": "El plazo para resolver y notificar el recurso de reposición es:",
+   "options": [
+    "Un mes",
+    "Tres meses",
+    "Quince días",
+    "Dos meses"
+   ],
+   "explanation": "Art. 124.2."
+  },
+  {
+   "id": "l39-056",
+   "topic": "l39-revision",
+   "question": "El recurso extraordinario de revisión procede contra:",
+   "options": [
+    "Actos firmes en vía administrativa",
+    "Actos de trámite",
+    "Disposiciones de carácter general",
+    "Actos que no ponen fin a la vía administrativa"
+   ],
+   "explanation": "Art. 125.1."
+  },
+  {
+   "id": "l39-057",
+   "topic": "l39-revision",
+   "question": "La interposición de un recurso administrativo, salvo disposición en contrario:",
+   "options": [
+    "No suspende la ejecución del acto impugnado",
+    "Suspende siempre la ejecución",
+    "Suspende la ejecución durante un mes",
+    "Suspende la ejecución si el acto es sancionador, en todo caso"
+   ],
+   "explanation": "Art. 117.1."
+  },
+  {
+   "id": "l39-058",
+   "topic": "l39-revision",
+   "question": "Si el interesado pide la suspensión de la ejecución y en un mes no hay resolución expresa:",
+   "options": [
+    "La ejecución se entiende suspendida",
+    "La suspensión se entiende denegada",
+    "El recurso se entiende desestimado",
+    "El procedimiento caduca"
+   ],
+   "explanation": "Art. 117.3."
+  },
+  {
+   "id": "l39-059",
+   "topic": "l39-iniciativa",
+   "question": "¿Cuál de estos NO es un principio de buena regulación del artículo 129?",
+   "options": [
+    "Discrecionalidad",
+    "Necesidad",
+    "Proporcionalidad",
+    "Seguridad jurídica"
+   ],
+   "explanation": "Art. 129.1: necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia."
+  },
+  {
+   "id": "l39-060",
+   "topic": "l39-iniciativa",
+   "question": "Las Administraciones deben hacer público anualmente:",
+   "options": [
+    "Un Plan Anual Normativo con las iniciativas que vayan a aprobarse el año siguiente",
+    "Un catálogo de todos sus funcionarios",
+    "Un informe de todas las sanciones impuestas",
+    "La lista de los procedimientos caducados"
+   ],
+   "explanation": "Art. 132.1."
+  },
+  {
+   "id": "l39-061",
+   "topic": "l39-generales",
+   "question": "Según el artículo 1.2, solo pueden incluirse trámites adicionales o distintos a los de esta Ley:",
+   "options": [
+    "Mediante ley, cuando resulte eficaz, proporcionado y necesario",
+    "Mediante real decreto",
+    "Mediante orden ministerial",
+    "Por acuerdo del órgano que tramita el procedimiento"
+   ],
+   "explanation": "Art. 1.2."
+  },
+  {
+   "id": "l39-062",
+   "topic": "l39-generales",
+   "question": "Forman parte del sector público institucional:",
+   "options": [
+    "Los organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas",
+    "Las asociaciones privadas sin ánimo de lucro",
+    "Los partidos políticos",
+    "Los colegios profesionales en todo caso"
+   ],
+   "explanation": "Art. 2.2.a."
+  },
+  {
+   "id": "l39-063",
+   "topic": "l39-iniciativa",
+   "question": "Para que entren en vigor, las normas con rango de ley y los reglamentos deben:",
+   "options": [
+    "Publicarse en el diario oficial correspondiente",
+    "Comunicarse a las Cortes Generales",
+    "Ser informados por el Consejo de Estado",
+    "Notificarse a cada ciudadano afectado"
+   ],
+   "explanation": "Art. 131."
+  },
+  {
+   "id": "l39-064",
+   "topic": "l39-iniciativa",
+   "question": "Antes de elaborar un proyecto de ley o de reglamento se realiza una consulta pública a través de:",
+   "options": [
+    "El portal web de la Administración competente",
+    "Un referéndum",
+    "El Boletín Oficial del Estado exclusivamente",
+    "Las oficinas de Correos"
+   ],
+   "explanation": "Art. 133.1."
+  },
+  {
+   "id": "l39-065",
+   "topic": "l39-iniciativa",
+   "question": "Según el artículo 130, las Administraciones Públicas deben:",
+   "options": [
+    "Revisar periódicamente su normativa vigente para adaptarla a los principios de buena regulación",
+    "Derogar cada cinco años todos sus reglamentos",
+    "Someter cada reglamento a referéndum",
+    "Publicar sus normas solo en papel"
+   ],
+   "explanation": "Art. 130.1."
+  }
+ ]
+}

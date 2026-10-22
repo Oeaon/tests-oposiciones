@@ -20,7 +20,7 @@ dependencies {
     testImplementation(libs.junit)
 }
 
-// El test del banco de preguntas lee el archivo real que va en la app.
+// Los tests del banco de preguntas leen los temarios reales que van en la app.
 tasks.test {
-    systemProperty("bankPath", rootProject.file("app/src/main/assets/constitucion.json").absolutePath)
+    systemProperty("assetsDir", rootProject.file("app/src/main/assets").absolutePath)
 }

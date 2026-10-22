@@ -43,7 +43,7 @@ fun TestsRoot(
             },
             onQuit = viewModel::quit,
         )
-        finished != null -> ResultScreen(finished, state.bank, monetizationState, onClose = viewModel::closeResult)
+        finished != null -> ResultScreen(finished, monetizationState, onClose = viewModel::closeResult)
         screen == Screen.PREMIUM -> {
             BackHandler { screen = Screen.HOME }
             PremiumScreen(
@@ -68,6 +68,7 @@ fun TestsRoot(
             state = state,
             monetization = monetization,
             monetizationState = monetizationState,
+            onSelectBank = viewModel::selectBank,
             onStartTopic = viewModel::startTopic,
             onStartQuick = viewModel::startQuick,
             onStartFailed = viewModel::startFailed,

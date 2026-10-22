@@ -1,5 +1,6 @@
 package com.testsoposiciones.app.ui
 
+import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -10,6 +11,7 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.rememberScrollState
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material3.Button
@@ -17,6 +19,7 @@ import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.FilterChip
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.LinearProgressIndicator
@@ -48,6 +51,7 @@ fun HomeScreen(
     state: StudyState,
     monetization: Monetization,
     monetizationState: MonetizationState,
+    onSelectBank: (String) -> Unit,
     onStartTopic: (String) -> Unit,
     onStartQuick: () -> Unit,
     onStartFailed: () -> Unit,
@@ -84,6 +88,19 @@ fun HomeScreen(
             contentPadding = PaddingValues(16.dp),
             verticalArrangement = Arrangement.spacedBy(12.dp),
         ) {
+            if (state.banks.size > 1) {
+                item {
+                    Row(Modifier.horizontalScroll(rememberScrollState()), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                        state.banks.forEach { option ->
+                            FilterChip(
+                                selected = option.id == bank.id,
+                                onClick = { onSelectBank(option.id) },
+                                label = { Text(option.shortTitle) },
+                            )
+                        }
+                    }
+                }
+            }
             item {
                 Card(
                     Modifier.fillMaxWidth(),
@@ -98,7 +115,7 @@ fun HomeScreen(
                             if (streak > 0) pluralStringResource(R.plurals.streak, streak, streak) else stringResource(R.string.streak_none),
                             style = MaterialTheme.typography.bodyMedium,
                         )
-                        state.stored.bestExamScore?.let {
+                        state.stored.bestExamScores[bank.id]?.let {
                             Text(stringResource(R.string.best_exam, String.format(Locale.getDefault(), "%.2f", it)))
                         }
                     }

@@ -1,56 +1,58 @@
 {
+ "id": "ce",
+ "shortTitle": "Constitución",
  "title": "Constitución Española de 1978",
  "source": "Preguntas originales redactadas a partir del texto de la Constitución Española (BOE núm. 311, de 29 de diciembre de 1978).",
  "topics": [
   {
-   "id": "preliminar",
+   "id": "ce-preliminar",
    "title": "Título Preliminar"
   },
   {
-   "id": "derechos",
+   "id": "ce-derechos",
    "title": "Título I. Derechos y deberes fundamentales"
   },
   {
-   "id": "corona",
+   "id": "ce-corona",
    "title": "Título II. La Corona"
   },
   {
-   "id": "cortes",
+   "id": "ce-cortes",
    "title": "Título III. Las Cortes Generales"
   },
   {
-   "id": "gobierno",
+   "id": "ce-gobierno",
    "title": "Título IV. Gobierno y Administración"
   },
   {
-   "id": "relaciones",
+   "id": "ce-relaciones",
    "title": "Título V. Relaciones entre el Gobierno y las Cortes"
   },
   {
-   "id": "judicial",
+   "id": "ce-judicial",
    "title": "Título VI. El Poder Judicial"
   },
   {
-   "id": "economia",
+   "id": "ce-economia",
    "title": "Título VII. Economía y Hacienda"
   },
   {
-   "id": "territorial",
+   "id": "ce-territorial",
    "title": "Título VIII. Organización territorial"
   },
   {
-   "id": "tc",
+   "id": "ce-tc",
    "title": "Título IX. El Tribunal Constitucional"
   },
   {
-   "id": "reforma",
+   "id": "ce-reforma",
    "title": "Título X. Reforma constitucional"
   }
  ],
  "questions": [
   {
    "id": "ce-001",
-   "topic": "preliminar",
+   "topic": "ce-preliminar",
    "question": "Según el artículo 1.1, España se constituye en un Estado:",
    "options": [
     "Social y democrático de Derecho",
@@ -62,7 +64,7 @@
   },
   {
    "id": "ce-002",
-   "topic": "preliminar",
+   "topic": "ce-preliminar",
    "question": "¿Cuáles son los valores superiores del ordenamiento jurídico según el artículo 1.1?",
    "options": [
     "La libertad, la justicia, la igualdad y el pluralismo político",
@@ -74,7 +76,7 @@
   },
   {
    "id": "ce-003",
-   "topic": "preliminar",
+   "topic": "ce-preliminar",
    "question": "La soberanía nacional reside en:",
    "options": [
     "El pueblo español",
@@ -86,7 +88,7 @@
   },
   {
    "id": "ce-004",
-   "topic": "preliminar",
+   "topic": "ce-preliminar",
    "question": "La forma política del Estado español es:",
    "options": [
     "La Monarquía parlamentaria",
@@ -98,7 +100,7 @@
   },
   {
    "id": "ce-005",
-   "topic": "preliminar",
+   "topic": "ce-preliminar",
    "question": "El artículo 2 reconoce y garantiza el derecho a la autonomía de:",
    "options": [
     "Las nacionalidades y regiones",
@@ -110,7 +112,7 @@
   },
   {
    "id": "ce-006",
-   "topic": "preliminar",
+   "topic": "ce-preliminar",
    "question": "Según el artículo 3, respecto al castellano, todos los españoles tienen:",
    "options": [
     "El deber de conocerlo y el derecho a usarlo",
@@ -122,7 +124,7 @@
   },
   {
    "id": "ce-007",
-   "topic": "preliminar",
+   "topic": "ce-preliminar",
    "question": "En la bandera de España, la franja amarilla es:",
    "options": [
     "De doble anchura que cada una de las rojas",
@@ -134,7 +136,7 @@
   },
   {
    "id": "ce-008",
-   "topic": "preliminar",
+   "topic": "ce-preliminar",
    "question": "La capital del Estado es:",
    "options": [
     "La villa de Madrid",
@@ -146,7 +148,7 @@
   },
   {
    "id": "ce-009",
-   "topic": "preliminar",
+   "topic": "ce-preliminar",
    "question": "Según el artículo 6, los partidos políticos expresan:",
    "options": [
     "El pluralismo político",
@@ -158,7 +160,7 @@
   },
   {
    "id": "ce-010",
-   "topic": "preliminar",
+   "topic": "ce-preliminar",
    "question": "El artículo 7 se refiere a:",
    "options": [
     "Los sindicatos de trabajadores y las asociaciones empresariales",
@@ -170,7 +172,7 @@
   },
   {
    "id": "ce-011",
-   "topic": "preliminar",
+   "topic": "ce-preliminar",
    "question": "Según el artículo 8, las Fuerzas Armadas están constituidas por:",
    "options": [
     "El Ejército de Tierra, la Armada y el Ejército del Aire",
@@ -182,7 +184,7 @@
   },
   {
    "id": "ce-012",
-   "topic": "preliminar",
+   "topic": "ce-preliminar",
    "question": "¿Cuál de estos principios NO aparece en el artículo 9.3?",
    "options": [
     "La irretroactividad de todas las normas",
@@ -194,7 +196,7 @@
   },
   {
    "id": "ce-013",
-   "topic": "preliminar",
+   "topic": "ce-preliminar",
    "question": "¿Cuántos artículos tiene la Constitución Española?",
    "options": [
     "169",
@@ -206,7 +208,7 @@
   },
   {
    "id": "ce-014",
-   "topic": "preliminar",
+   "topic": "ce-preliminar",
    "question": "¿Cuántas disposiciones transitorias tiene la Constitución?",
    "options": [
     "Nueve",
@@ -218,7 +220,7 @@
   },
   {
    "id": "ce-015",
-   "topic": "preliminar",
+   "topic": "ce-preliminar",
    "question": "La Constitución fue ratificada en referéndum el:",
    "options": [
     "6 de diciembre de 1978",
@@ -230,7 +232,7 @@
   },
   {
    "id": "ce-016",
-   "topic": "preliminar",
+   "topic": "ce-preliminar",
    "question": "La Constitución entró en vigor:",
    "options": [
     "El día de su publicación en el BOE, el 29 de diciembre de 1978",
@@ -242,7 +244,7 @@
   },
   {
    "id": "ce-017",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "Según el artículo 10.1, son fundamento del orden político y de la paz social:",
    "options": [
     "La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás",
@@ -254,7 +256,7 @@
   },
   {
    "id": "ce-018",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "Los españoles son mayores de edad a los:",
    "options": [
     "18 años",
@@ -266,7 +268,7 @@
   },
   {
    "id": "ce-019",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "El derecho a la igualdad ante la ley se recoge en el artículo:",
    "options": [
     "14",
@@ -278,7 +280,7 @@
   },
   {
    "id": "ce-020",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "Según el artículo 15, queda abolida la pena de muerte:",
    "options": [
     "Salvo lo que puedan disponer las leyes penales militares para tiempos de guerra",
@@ -290,7 +292,7 @@
   },
   {
    "id": "ce-021",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "La detención preventiva no podrá durar más de:",
    "options": [
     "72 horas",
@@ -302,7 +304,7 @@
   },
   {
    "id": "ce-022",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "El procedimiento para la inmediata puesta a disposición judicial de toda persona detenida ilegalmente se llama:",
    "options": [
     "Habeas corpus",
@@ -314,7 +316,7 @@
   },
   {
    "id": "ce-023",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "Ninguna entrada o registro en el domicilio podrá hacerse sin consentimiento del titular o resolución judicial, salvo:",
    "options": [
     "En caso de flagrante delito",
@@ -326,7 +328,7 @@
   },
   {
    "id": "ce-024",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "El secuestro de publicaciones solo puede acordarse:",
    "options": [
     "En virtud de resolución judicial",
@@ -338,7 +340,7 @@
   },
   {
    "id": "ce-025",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "El derecho de reunión pacífica y sin armas:",
    "options": [
     "No necesita autorización previa",
@@ -350,7 +352,7 @@
   },
   {
    "id": "ce-026",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "Según el artículo 22, las asociaciones deberán inscribirse en un registro:",
    "options": [
     "A los solos efectos de publicidad",
@@ -362,7 +364,7 @@
   },
   {
    "id": "ce-027",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "Según el artículo 22.5, se prohíben las asociaciones:",
    "options": [
     "Secretas y de carácter paramilitar",
@@ -374,7 +376,7 @@
   },
   {
    "id": "ce-028",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "El derecho al juez ordinario predeterminado por la ley se recoge en el artículo:",
    "options": [
     "24",
@@ -386,7 +388,7 @@
   },
   {
    "id": "ce-029",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "Las penas privativas de libertad estarán orientadas hacia:",
    "options": [
     "La reeducación y reinserción social",
@@ -398,7 +400,7 @@
   },
   {
    "id": "ce-030",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "Según el artículo 27.4, la enseñanza básica es:",
    "options": [
     "Obligatoria y gratuita",
@@ -410,7 +412,7 @@
   },
   {
    "id": "ce-031",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "El derecho a la huelga de los trabajadores se reconoce en el artículo:",
    "options": [
     "28.2",
@@ -422,7 +424,7 @@
   },
   {
    "id": "ce-032",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "Según el artículo 30, los españoles tienen respecto a la defensa de España:",
    "options": [
     "El derecho y el deber de defenderla",
@@ -434,7 +436,7 @@
   },
   {
    "id": "ce-033",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "La Sección 1.ª del Capítulo II del Título I comprende los artículos:",
    "options": [
     "15 a 29",
@@ -446,7 +448,7 @@
   },
   {
    "id": "ce-034",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "Los principios rectores de la política social y económica están en el:",
    "options": [
     "Capítulo III del Título I",
@@ -458,7 +460,7 @@
   },
   {
    "id": "ce-035",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "El derecho a disfrutar de una vivienda digna y adecuada se recoge en el artículo:",
    "options": [
     "47",
@@ -470,7 +472,7 @@
   },
   {
    "id": "ce-036",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "El recurso de amparo ante el Tribunal Constitucional protege los derechos de:",
    "options": [
     "El artículo 14, la Sección 1.ª del Capítulo II y la objeción de conciencia del artículo 30",
@@ -482,7 +484,7 @@
   },
   {
    "id": "ce-037",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "El Defensor del Pueblo es:",
    "options": [
     "Alto comisionado de las Cortes Generales",
@@ -494,7 +496,7 @@
   },
   {
    "id": "ce-038",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "Según el artículo 13.2, los extranjeros pueden tener derecho de sufragio activo y pasivo en:",
    "options": [
     "Las elecciones municipales, atendiendo a criterios de reciprocidad",
@@ -506,7 +508,7 @@
   },
   {
    "id": "ce-039",
-   "topic": "derechos",
+   "topic": "ce-derechos",
    "question": "La reforma constitucional de 2024 modificó el artículo 49 para referirse a:",
    "options": [
     "Las personas con discapacidad",
@@ -518,7 +520,7 @@
   },
   {
    "id": "ce-040",
-   "topic": "corona",
+   "topic": "ce-corona",
    "question": "El Rey es el Jefe del Estado, símbolo de:",
    "options": [
     "Su unidad y permanencia",
@@ -530,7 +532,7 @@
   },
   {
    "id": "ce-041",
-   "topic": "corona",
+   "topic": "ce-corona",
    "question": "Según el artículo 56.3, la persona del Rey:",
    "options": [
     "Es inviolable y no está sujeta a responsabilidad",
@@ -542,7 +544,7 @@
   },
   {
    "id": "ce-042",
-   "topic": "corona",
+   "topic": "ce-corona",
    "question": "En la sucesión a la Corona, en el mismo grado se prefiere:",
    "options": [
     "El varón a la mujer",
@@ -554,7 +556,7 @@
   },
   {
    "id": "ce-043",
-   "topic": "corona",
+   "topic": "ce-corona",
    "question": "El Príncipe heredero tendrá la dignidad de:",
    "options": [
     "Príncipe de Asturias",
@@ -566,7 +568,7 @@
   },
   {
    "id": "ce-044",
-   "topic": "corona",
+   "topic": "ce-corona",
    "question": "Las abdicaciones y renuncias se resolverán por:",
    "options": [
     "Una ley orgánica",
@@ -578,7 +580,7 @@
   },
   {
    "id": "ce-045",
-   "topic": "corona",
+   "topic": "ce-corona",
    "question": "Si las Cortes nombran la Regencia, esta se compondrá de:",
    "options": [
     "Una, tres o cinco personas",
@@ -590,7 +592,7 @@
   },
   {
    "id": "ce-046",
-   "topic": "corona",
+   "topic": "ce-corona",
    "question": "¿Ante quién presta juramento el Rey al ser proclamado?",
    "options": [
     "Ante las Cortes Generales",
@@ -602,7 +604,7 @@
   },
   {
    "id": "ce-047",
-   "topic": "corona",
+   "topic": "ce-corona",
    "question": "¿Cuál de estas funciones NO corresponde al Rey según el artículo 62?",
    "options": [
     "Autorizar indultos generales",
@@ -614,7 +616,7 @@
   },
   {
    "id": "ce-048",
-   "topic": "corona",
+   "topic": "ce-corona",
    "question": "La propuesta y el nombramiento del Presidente del Gobierno los refrenda:",
    "options": [
     "El Presidente del Congreso",
@@ -626,7 +628,7 @@
   },
   {
    "id": "ce-049",
-   "topic": "corona",
+   "topic": "ce-corona",
    "question": "El Rey distribuye libremente la cantidad que recibe de los Presupuestos para:",
    "options": [
     "El sostenimiento de su Familia y Casa",
@@ -638,7 +640,7 @@
   },
   {
    "id": "ce-050",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "Las Cortes Generales están formadas por:",
    "options": [
     "El Congreso de los Diputados y el Senado",
@@ -650,7 +652,7 @@
   },
   {
    "id": "ce-051",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "Según la Constitución, el Congreso se compone de:",
    "options": [
     "Un mínimo de 300 y un máximo de 400 Diputados",
@@ -662,7 +664,7 @@
   },
   {
    "id": "ce-052",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "La circunscripción electoral para el Congreso es:",
    "options": [
     "La provincia",
@@ -674,7 +676,7 @@
   },
   {
    "id": "ce-053",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "El Congreso es elegido por:",
    "options": [
     "Cuatro años",
@@ -686,7 +688,7 @@
   },
   {
    "id": "ce-054",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "El Senado es la Cámara de:",
    "options": [
     "Representación territorial",
@@ -698,7 +700,7 @@
   },
   {
    "id": "ce-055",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "En cada provincia peninsular se eligen:",
    "options": [
     "Cuatro senadores",
@@ -710,7 +712,7 @@
   },
   {
    "id": "ce-056",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "Ceuta y Melilla eligen cada una:",
    "options": [
     "Dos senadores",
@@ -722,7 +724,7 @@
   },
   {
    "id": "ce-057",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "Las Comunidades Autónomas designan:",
    "options": [
     "Un senador y otro más por cada millón de habitantes de su territorio",
@@ -734,7 +736,7 @@
   },
   {
    "id": "ce-058",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "Las causas contra Diputados y Senadores son competencia de:",
    "options": [
     "La Sala de lo Penal del Tribunal Supremo",
@@ -746,7 +748,7 @@
   },
   {
    "id": "ce-059",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "La aprobación de los Reglamentos de las Cámaras y su reforma exige:",
    "options": [
     "Mayoría absoluta",
@@ -758,7 +760,7 @@
   },
   {
    "id": "ce-060",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "Los periodos ordinarios de sesiones de las Cámaras son:",
    "options": [
     "De septiembre a diciembre y de febrero a junio",
@@ -770,7 +772,7 @@
   },
   {
    "id": "ce-061",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "¿Cuál de estas materias NO puede delegarse en las Comisiones Legislativas Permanentes?",
    "options": [
     "Los Presupuestos Generales del Estado",
@@ -782,7 +784,7 @@
   },
   {
    "id": "ce-062",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "Las Diputaciones Permanentes tendrán un mínimo de:",
    "options": [
     "21 miembros",
@@ -794,7 +796,7 @@
   },
   {
    "id": "ce-063",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "El voto de Senadores y Diputados es:",
    "options": [
     "Personal e indelegable",
@@ -806,7 +808,7 @@
   },
   {
    "id": "ce-064",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "La aprobación, modificación o derogación de las leyes orgánicas exige:",
    "options": [
     "Mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto",
@@ -818,7 +820,7 @@
   },
   {
    "id": "ce-065",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "La delegación legislativa para formar textos articulados se otorga mediante:",
    "options": [
     "Una ley de bases",
@@ -830,7 +832,7 @@
   },
   {
    "id": "ce-066",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "Los decretos-leyes deben ser convalidados o derogados por el Congreso en el plazo de:",
    "options": [
     "30 días desde su promulgación",
@@ -842,7 +844,7 @@
   },
   {
    "id": "ce-067",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "La iniciativa legislativa popular exige al menos:",
    "options": [
     "500.000 firmas acreditadas",
@@ -854,7 +856,7 @@
   },
   {
    "id": "ce-068",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "¿En cuál de estas materias NO cabe la iniciativa legislativa popular?",
    "options": [
     "Las materias tributarias",
@@ -866,7 +868,7 @@
   },
   {
    "id": "ce-069",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "El plazo del Senado para vetar o enmendar un proyecto de ley ordinario es de:",
    "options": [
     "Dos meses",
@@ -878,7 +880,7 @@
   },
   {
    "id": "ce-070",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "El Rey sancionará las leyes aprobadas por las Cortes en el plazo de:",
    "options": [
     "15 días",
@@ -890,7 +892,7 @@
   },
   {
    "id": "ce-071",
-   "topic": "cortes",
+   "topic": "ce-cortes",
    "question": "El referéndum consultivo lo convoca el Rey a propuesta del Presidente del Gobierno, previamente autorizada por:",
    "options": [
     "El Congreso de los Diputados",
@@ -902,7 +904,7 @@
   },
   {
    "id": "ce-072",
-   "topic": "gobierno",
+   "topic": "ce-gobierno",
    "question": "¿Quién dirige la política interior y exterior según el artículo 97?",
    "options": [
     "El Gobierno",
@@ -914,7 +916,7 @@
   },
   {
    "id": "ce-073",
-   "topic": "gobierno",
+   "topic": "ce-gobierno",
    "question": "El Gobierno se compone de:",
    "options": [
     "El Presidente, los Vicepresidentes en su caso, los Ministros y los demás miembros que establezca la ley",
@@ -926,7 +928,7 @@
   },
   {
    "id": "ce-074",
-   "topic": "gobierno",
+   "topic": "ce-gobierno",
    "question": "En la investidura, si el candidato no obtiene la mayoría absoluta, se vota de nuevo:",
    "options": [
     "48 horas después, bastando la mayoría simple",
@@ -938,7 +940,7 @@
   },
   {
    "id": "ce-075",
-   "topic": "gobierno",
+   "topic": "ce-gobierno",
    "question": "Si en dos meses desde la primera votación de investidura ningún candidato obtiene la confianza:",
    "options": [
     "El Rey disolverá ambas Cámaras y convocará nuevas elecciones",
@@ -950,7 +952,7 @@
   },
   {
    "id": "ce-076",
-   "topic": "gobierno",
+   "topic": "ce-gobierno",
    "question": "Los demás miembros del Gobierno son nombrados y separados por:",
    "options": [
     "El Rey, a propuesta del Presidente",
@@ -962,7 +964,7 @@
   },
   {
    "id": "ce-077",
-   "topic": "gobierno",
+   "topic": "ce-gobierno",
    "question": "La responsabilidad criminal del Presidente y los miembros del Gobierno es exigible ante:",
    "options": [
     "La Sala de lo Penal del Tribunal Supremo",
@@ -974,7 +976,7 @@
   },
   {
    "id": "ce-078",
-   "topic": "gobierno",
+   "topic": "ce-gobierno",
    "question": "La acusación por traición contra el Presidente o los miembros del Gobierno requiere iniciativa de:",
    "options": [
     "La cuarta parte de los miembros del Congreso y aprobación por su mayoría absoluta",
@@ -986,7 +988,7 @@
   },
   {
    "id": "ce-079",
-   "topic": "gobierno",
+   "topic": "ce-gobierno",
    "question": "¿Cuál de estos principios NO figura en el artículo 103.1 sobre la Administración Pública?",
    "options": [
     "Autonomía",
@@ -998,7 +1000,7 @@
   },
   {
    "id": "ce-080",
-   "topic": "gobierno",
+   "topic": "ce-gobierno",
    "question": "El acceso a la función pública se hará de acuerdo con los principios de:",
    "options": [
     "Mérito y capacidad",
@@ -1010,7 +1012,7 @@
   },
   {
    "id": "ce-081",
-   "topic": "gobierno",
+   "topic": "ce-gobierno",
    "question": "El supremo órgano consultivo del Gobierno es:",
    "options": [
     "El Consejo de Estado",
@@ -1022,7 +1024,7 @@
   },
   {
    "id": "ce-082",
-   "topic": "relaciones",
+   "topic": "ce-relaciones",
    "question": "El Gobierno responde solidariamente en su gestión política ante:",
    "options": [
     "El Congreso de los Diputados",
@@ -1034,7 +1036,7 @@
   },
   {
    "id": "ce-083",
-   "topic": "relaciones",
+   "topic": "ce-relaciones",
    "question": "La cuestión de confianza la plantea el Presidente del Gobierno previa deliberación de:",
    "options": [
     "El Consejo de Ministros",
@@ -1046,7 +1048,7 @@
   },
   {
    "id": "ce-084",
-   "topic": "relaciones",
+   "topic": "ce-relaciones",
    "question": "La confianza se entiende otorgada cuando vote a favor:",
    "options": [
     "La mayoría simple de los Diputados",
@@ -1058,7 +1060,7 @@
   },
   {
    "id": "ce-085",
-   "topic": "relaciones",
+   "topic": "ce-relaciones",
    "question": "La moción de censura debe proponerse por al menos:",
    "options": [
     "La décima parte de los Diputados",
@@ -1070,7 +1072,7 @@
   },
   {
    "id": "ce-086",
-   "topic": "relaciones",
+   "topic": "ce-relaciones",
    "question": "La moción de censura no puede votarse hasta que transcurran:",
    "options": [
     "Cinco días desde su presentación",
@@ -1082,7 +1084,7 @@
   },
   {
    "id": "ce-087",
-   "topic": "relaciones",
+   "topic": "ce-relaciones",
    "question": "Para aprobar una moción de censura se necesita:",
    "options": [
     "Mayoría absoluta del Congreso",
@@ -1094,7 +1096,7 @@
   },
   {
    "id": "ce-088",
-   "topic": "relaciones",
+   "topic": "ce-relaciones",
    "question": "Si una moción de censura no se aprueba, sus signatarios no pueden presentar otra:",
    "options": [
     "Durante el mismo periodo de sesiones",
@@ -1106,7 +1108,7 @@
   },
   {
    "id": "ce-089",
-   "topic": "relaciones",
+   "topic": "ce-relaciones",
    "question": "No procede una nueva disolución de las Cámaras por el Presidente antes de que transcurra:",
    "options": [
     "Un año desde la anterior, salvo el caso del artículo 99.5",
@@ -1118,7 +1120,7 @@
   },
   {
    "id": "ce-090",
-   "topic": "relaciones",
+   "topic": "ce-relaciones",
    "question": "El estado de alarma lo declara:",
    "options": [
     "El Gobierno, por un plazo máximo de 15 días, dando cuenta al Congreso",
@@ -1130,7 +1132,7 @@
   },
   {
    "id": "ce-091",
-   "topic": "relaciones",
+   "topic": "ce-relaciones",
    "question": "El estado de excepción lo declara el Gobierno, previa autorización del Congreso, por un plazo de:",
    "options": [
     "30 días, prorrogable por otro plazo igual",
@@ -1142,7 +1144,7 @@
   },
   {
    "id": "ce-092",
-   "topic": "relaciones",
+   "topic": "ce-relaciones",
    "question": "El estado de sitio lo declara:",
    "options": [
     "El Congreso por mayoría absoluta, a propuesta exclusiva del Gobierno",
@@ -1154,7 +1156,7 @@
   },
   {
    "id": "ce-093",
-   "topic": "judicial",
+   "topic": "ce-judicial",
    "question": "Según el artículo 117.1, la justicia emana del pueblo y se administra en nombre de:",
    "options": [
     "El Rey",
@@ -1166,7 +1168,7 @@
   },
   {
    "id": "ce-094",
-   "topic": "judicial",
+   "topic": "ce-judicial",
    "question": "¿Cuál de estas características NO atribuye el artículo 117.1 a Jueces y Magistrados?",
    "options": [
     "Elegibles",
@@ -1178,7 +1180,7 @@
   },
   {
    "id": "ce-095",
-   "topic": "judicial",
+   "topic": "ce-judicial",
    "question": "La base de la organización y funcionamiento de los Tribunales es el principio de:",
    "options": [
     "Unidad jurisdiccional",
@@ -1190,7 +1192,7 @@
   },
   {
    "id": "ce-096",
-   "topic": "judicial",
+   "topic": "ce-judicial",
    "question": "La justicia será gratuita, en todo caso, para:",
    "options": [
     "Quienes acrediten insuficiencia de recursos para litigar",
@@ -1202,7 +1204,7 @@
   },
   {
    "id": "ce-097",
-   "topic": "judicial",
+   "topic": "ce-judicial",
    "question": "Según el artículo 120, el procedimiento será predominantemente oral, sobre todo en materia:",
    "options": [
     "Criminal",
@@ -1214,7 +1216,7 @@
   },
   {
    "id": "ce-098",
-   "topic": "judicial",
+   "topic": "ce-judicial",
    "question": "El órgano de gobierno del Poder Judicial es:",
    "options": [
     "El Consejo General del Poder Judicial",
@@ -1226,7 +1228,7 @@
   },
   {
    "id": "ce-099",
-   "topic": "judicial",
+   "topic": "ce-judicial",
    "question": "El Consejo General del Poder Judicial lo integran el Presidente del Tribunal Supremo y:",
    "options": [
     "Veinte miembros nombrados por el Rey por cinco años",
@@ -1238,7 +1240,7 @@
   },
   {
    "id": "ce-100",
-   "topic": "judicial",
+   "topic": "ce-judicial",
    "question": "El Tribunal Supremo es el órgano jurisdiccional superior en todos los órdenes, salvo:",
    "options": [
     "Lo dispuesto en materia de garantías constitucionales",
@@ -1250,7 +1252,7 @@
   },
   {
    "id": "ce-101",
-   "topic": "judicial",
+   "topic": "ce-judicial",
    "question": "El Fiscal General del Estado es nombrado por el Rey a propuesta de:",
    "options": [
     "El Gobierno, oído el Consejo General del Poder Judicial",
@@ -1262,7 +1264,7 @@
   },
   {
    "id": "ce-102",
-   "topic": "judicial",
+   "topic": "ce-judicial",
    "question": "Los ciudadanos pueden participar en la Administración de Justicia mediante:",
    "options": [
     "La institución del Jurado",
@@ -1274,7 +1276,7 @@
   },
   {
    "id": "ce-103",
-   "topic": "judicial",
+   "topic": "ce-judicial",
    "question": "Los Jueces, Magistrados y Fiscales en activo NO pueden:",
    "options": [
     "Pertenecer a partidos políticos o sindicatos",
@@ -1286,7 +1288,7 @@
   },
   {
    "id": "ce-104",
-   "topic": "economia",
+   "topic": "ce-economia",
    "question": "Según el artículo 128.1, toda la riqueza del país está subordinada a:",
    "options": [
     "El interés general",
@@ -1298,7 +1300,7 @@
   },
   {
    "id": "ce-105",
-   "topic": "economia",
+   "topic": "ce-economia",
    "question": "La potestad originaria para establecer tributos corresponde:",
    "options": [
     "Exclusivamente al Estado, mediante ley",
@@ -1310,7 +1312,7 @@
   },
   {
    "id": "ce-106",
-   "topic": "economia",
+   "topic": "ce-economia",
    "question": "El Gobierno debe presentar al Congreso los Presupuestos Generales del Estado al menos:",
    "options": [
     "Tres meses antes de que expiren los del año anterior",
@@ -1322,7 +1324,7 @@
   },
   {
    "id": "ce-107",
-   "topic": "economia",
+   "topic": "ce-economia",
    "question": "Si los Presupuestos no se aprueban antes del primer día del ejercicio:",
    "options": [
     "Se consideran automáticamente prorrogados los del ejercicio anterior",
@@ -1334,7 +1336,7 @@
   },
   {
    "id": "ce-108",
-   "topic": "economia",
+   "topic": "ce-economia",
    "question": "El principio de estabilidad presupuestaria se introdujo en la reforma de 2011 del artículo:",
    "options": [
     "135",
@@ -1346,7 +1348,7 @@
   },
   {
    "id": "ce-109",
-   "topic": "economia",
+   "topic": "ce-economia",
    "question": "El supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado es:",
    "options": [
     "El Tribunal de Cuentas",
@@ -1358,7 +1360,7 @@
   },
   {
    "id": "ce-110",
-   "topic": "territorial",
+   "topic": "ce-territorial",
    "question": "Según el artículo 137, el Estado se organiza territorialmente en:",
    "options": [
     "Municipios, provincias y Comunidades Autónomas",
@@ -1370,7 +1372,7 @@
   },
   {
    "id": "ce-111",
-   "topic": "territorial",
+   "topic": "ce-territorial",
    "question": "Los Alcaldes son elegidos:",
    "options": [
     "Por los Concejales o por los vecinos",
@@ -1382,7 +1384,7 @@
   },
   {
    "id": "ce-112",
-   "topic": "territorial",
+   "topic": "ce-territorial",
    "question": "El gobierno y la administración autónoma de las provincias corresponde a:",
    "options": [
     "Las Diputaciones u otras Corporaciones de carácter representativo",
@@ -1394,7 +1396,7 @@
   },
   {
    "id": "ce-113",
-   "topic": "territorial",
+   "topic": "ce-territorial",
    "question": "En los archipiélagos, las islas tienen su administración propia en forma de:",
    "options": [
     "Cabildos o Consejos",
@@ -1406,7 +1408,7 @@
   },
   {
    "id": "ce-114",
-   "topic": "territorial",
+   "topic": "ce-territorial",
    "question": "La norma institucional básica de cada Comunidad Autónoma es:",
    "options": [
     "Su Estatuto de Autonomía",
@@ -1418,7 +1420,7 @@
   },
   {
    "id": "ce-115",
-   "topic": "territorial",
+   "topic": "ce-territorial",
    "question": "Las competencias exclusivas del Estado se enumeran en el artículo:",
    "options": [
     "149.1",
@@ -1430,7 +1432,7 @@
   },
   {
    "id": "ce-116",
-   "topic": "territorial",
+   "topic": "ce-territorial",
    "question": "Si una Comunidad Autónoma no cumple sus obligaciones constitucionales, el Gobierno puede adoptar medidas con la aprobación de:",
    "options": [
     "La mayoría absoluta del Senado",
@@ -1442,7 +1444,7 @@
   },
   {
    "id": "ce-117",
-   "topic": "territorial",
+   "topic": "ce-territorial",
    "question": "La organización institucional autonómica del artículo 152 se basa en una Asamblea Legislativa, un Consejo de Gobierno y:",
    "options": [
     "Un Presidente",
@@ -1454,7 +1456,7 @@
   },
   {
    "id": "ce-118",
-   "topic": "territorial",
+   "topic": "ce-territorial",
    "question": "Para corregir desequilibrios económicos interterritoriales se constituye:",
    "options": [
     "Un Fondo de Compensación",
@@ -1466,7 +1468,7 @@
   },
   {
    "id": "ce-119",
-   "topic": "territorial",
+   "topic": "ce-territorial",
    "question": "Ceuta y Melilla pueden constituirse en Comunidades Autónomas según:",
    "options": [
     "La disposición transitoria quinta",
@@ -1478,7 +1480,7 @@
   },
   {
    "id": "ce-120",
-   "topic": "tc",
+   "topic": "ce-tc",
    "question": "El Tribunal Constitucional se compone de:",
    "options": [
     "12 miembros nombrados por el Rey",
@@ -1490,7 +1492,7 @@
   },
   {
    "id": "ce-121",
-   "topic": "tc",
+   "topic": "ce-tc",
    "question": "¿Cuántos miembros del Tribunal Constitucional se nombran a propuesta del Gobierno?",
    "options": [
     "Dos",
@@ -1502,7 +1504,7 @@
   },
   {
    "id": "ce-122",
-   "topic": "tc",
+   "topic": "ce-tc",
    "question": "Los miembros del Tribunal Constitucional propuestos por el Congreso necesitan una mayoría de:",
    "options": [
     "Tres quintos",
@@ -1514,7 +1516,7 @@
   },
   {
    "id": "ce-123",
-   "topic": "tc",
+   "topic": "ce-tc",
    "question": "Los miembros del Tribunal Constitucional deben ser juristas de reconocida competencia con más de:",
    "options": [
     "15 años de ejercicio profesional",
@@ -1526,7 +1528,7 @@
   },
   {
    "id": "ce-124",
-   "topic": "tc",
+   "topic": "ce-tc",
    "question": "Los miembros del Tribunal Constitucional son designados por un periodo de:",
    "options": [
     "Nueve años, renovándose por terceras partes cada tres",
@@ -1538,7 +1540,7 @@
   },
   {
    "id": "ce-125",
-   "topic": "tc",
+   "topic": "ce-tc",
    "question": "El Presidente del Tribunal Constitucional es nombrado por un periodo de:",
    "options": [
     "Tres años",
@@ -1550,7 +1552,7 @@
   },
   {
    "id": "ce-126",
-   "topic": "tc",
+   "topic": "ce-tc",
    "question": "¿Quién NO está legitimado para interponer el recurso de inconstitucionalidad?",
    "options": [
     "El Fiscal General del Estado",
@@ -1562,7 +1564,7 @@
   },
   {
    "id": "ce-127",
-   "topic": "tc",
+   "topic": "ce-tc",
    "question": "Están legitimados para el recurso de amparo toda persona natural o jurídica con interés legítimo, el Defensor del Pueblo y:",
    "options": [
     "El Ministerio Fiscal",
@@ -1574,7 +1576,7 @@
   },
   {
    "id": "ce-128",
-   "topic": "tc",
+   "topic": "ce-tc",
    "question": "Contra las sentencias del Tribunal Constitucional:",
    "options": [
     "No cabe recurso alguno",
@@ -1586,7 +1588,7 @@
   },
   {
    "id": "ce-129",
-   "topic": "tc",
+   "topic": "ce-tc",
    "question": "Si el Gobierno impugna disposiciones de una Comunidad Autónoma, el Tribunal debe ratificar o levantar la suspensión en un plazo no superior a:",
    "options": [
     "Cinco meses",
@@ -1598,7 +1600,7 @@
   },
   {
    "id": "ce-130",
-   "topic": "reforma",
+   "topic": "ce-reforma",
    "question": "¿Quién NO puede ejercer la iniciativa de reforma constitucional?",
    "options": [
     "Los ciudadanos mediante iniciativa popular",
@@ -1610,7 +1612,7 @@
   },
   {
    "id": "ce-131",
-   "topic": "reforma",
+   "topic": "ce-reforma",
    "question": "Por el procedimiento ordinario del artículo 167, los proyectos de reforma se aprueban por:",
    "options": [
     "Mayoría de tres quintos de cada una de las Cámaras",
@@ -1622,7 +1624,7 @@
   },
   {
    "id": "ce-132",
-   "topic": "reforma",
+   "topic": "ce-reforma",
    "question": "En el procedimiento del artículo 167, la reforma se somete a referéndum si lo solicita en 15 días:",
    "options": [
     "Una décima parte de los miembros de cualquiera de las Cámaras",
@@ -1634,7 +1636,7 @@
   },
   {
    "id": "ce-133",
-   "topic": "reforma",
+   "topic": "ce-reforma",
    "question": "¿Qué partes de la Constitución exigen el procedimiento agravado del artículo 168?",
    "options": [
     "El Título Preliminar, la Sección 1.ª del Capítulo II del Título I y el Título II",
@@ -1646,7 +1648,7 @@
   },
   {
    "id": "ce-134",
-   "topic": "reforma",
+   "topic": "ce-reforma",
    "question": "En el procedimiento del artículo 168, tras aprobar el principio por dos tercios de cada Cámara:",
    "options": [
     "Se disuelven inmediatamente las Cortes",
@@ -1658,7 +1660,7 @@
   },
   {
    "id": "ce-135",
-   "topic": "reforma",
+   "topic": "ce-reforma",
    "question": "No puede iniciarse la reforma constitucional:",
    "options": [
     "En tiempo de guerra o durante los estados del artículo 116",
@@ -1670,7 +1672,7 @@
   },
   {
    "id": "ce-136",
-   "topic": "reforma",
+   "topic": "ce-reforma",
    "question": "¿Cuántas veces se ha reformado la Constitución de 1978?",
    "options": [
     "Tres (1992, 2011 y 2024)",

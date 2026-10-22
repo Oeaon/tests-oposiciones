@@ -25,13 +25,12 @@ import com.testsoposiciones.app.R
 import com.testsoposiciones.app.monetization.AdBanner
 import com.testsoposiciones.app.monetization.MonetizationState
 import com.testsoposiciones.app.ui.theme.AnswerColors
-import com.testsoposiciones.core.QuestionBank
 import com.testsoposiciones.core.QuizMode
 import java.util.Locale
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun ResultScreen(finished: FinishedQuiz, bank: QuestionBank?, monetizationState: MonetizationState, onClose: () -> Unit) {
+fun ResultScreen(finished: FinishedQuiz, monetizationState: MonetizationState, onClose: () -> Unit) {
     BackHandler(onBack = onClose)
     val result = finished.result
     val session = finished.session
@@ -73,7 +72,7 @@ fun ResultScreen(finished: FinishedQuiz, bank: QuestionBank?, monetizationState:
                 val item = session.items[index]
                 Card(Modifier.fillMaxWidth()) {
                     Column(Modifier.padding(16.dp), verticalArrangement = Arrangement.spacedBy(4.dp)) {
-                        bank?.topics?.firstOrNull { it.id == item.question.topicId }?.let {
+                        finished.bank.topics.firstOrNull { it.id == item.question.topicId }?.let {
                             Text(it.title, style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
                         }
                         Text(item.question.text, style = MaterialTheme.typography.bodyLarge)

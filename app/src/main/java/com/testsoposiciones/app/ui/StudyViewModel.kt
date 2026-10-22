@@ -24,17 +24,21 @@ import kotlinx.coroutines.launch
 import java.io.IOException
 import java.time.LocalDate
 
-data class FinishedQuiz(val session: QuizSession, val result: QuizResult)
+data class FinishedQuiz(val session: QuizSession, val result: QuizResult, val bank: QuestionBank)
 
 data class StudyState(
-    val bank: QuestionBank? = null,
+    val banks: List<QuestionBank> = emptyList(),
     val loadError: Boolean = false,
     val stored: StoredProgress = StoredProgress(),
     val session: QuizSession? = null,
     /** Hora límite del simulacro en milisegundos; null en práctica. */
     val examDeadlineMs: Long? = null,
     val finished: FinishedQuiz? = null,
-)
+) {
+    /** Temario elegido; el primero (la Constitución) por defecto. */
+    val bank: QuestionBank?
+        get() = banks.firstOrNull { it.id == stored.selectedBankId } ?: banks.firstOrNull()
+}
 
 class StudyViewModel(
     private val questions: QuestionRepository,
@@ -46,8 +50,8 @@ class StudyViewModel(
     init {
         viewModelScope.launch {
             try {
-                val bank = questions.bank()
-                _state.update { it.copy(bank = bank) }
+                val banks = questions.banks()
+                _state.update { it.copy(banks = banks) }
             } catch (e: IOException) {
                 _state.update { it.copy(loadError = true) }
             } catch (e: QuestionBankFormatException) {
@@ -55,6 +59,10 @@ class StudyViewModel(
             }
         }
         viewModelScope.launch { progress.data.collect { stored -> _state.update { it.copy(stored = stored) } } }
+    }
+
+    fun selectBank(bankId: String) {
+        viewModelScope.launch { progress.selectBank(bankId) }
     }
 
     fun startTopic(topicId: String) {
@@ -97,11 +105,13 @@ class StudyViewModel(
 
     fun finish() {
         val session = _state.value.session ?: return
+        val bank = _state.value.bank ?: return
         val result = session.result()
-        _state.update { it.copy(session = null, examDeadlineMs = null, finished = FinishedQuiz(session, result)) }
+        _state.update { it.copy(session = null, examDeadlineMs = null, finished = FinishedQuiz(session, result, bank)) }
         viewModelScope.launch {
             progress.record(
                 outcomes = session.outcomes(),
+                bankId = bank.id,
                 examScore = if (session.mode == QuizMode.EXAM) result.score else null,
                 today = LocalDate.now(),
             )

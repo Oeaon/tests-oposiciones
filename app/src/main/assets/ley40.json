@@ -1,0 +1,646 @@
+{
+ "id": "l40",
+ "shortTitle": "Ley 40/2015",
+ "title": "Ley 40/2015, de Régimen Jurídico del Sector Público",
+ "source": "Preguntas originales redactadas a partir del texto de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (BOE núm. 236, de 2 de octubre de 2015).",
+ "topics": [
+  {
+   "id": "l40-principios",
+   "title": "Título Preliminar. Objeto y principios generales"
+  },
+  {
+   "id": "l40-competencia",
+   "title": "Órganos administrativos y competencia"
+  },
+  {
+   "id": "l40-colegiados",
+   "title": "Órganos colegiados"
+  },
+  {
+   "id": "l40-abstencion",
+   "title": "Abstención y recusación"
+  },
+  {
+   "id": "l40-sancionadora",
+   "title": "Principios de la potestad sancionadora"
+  },
+  {
+   "id": "l40-responsabilidad",
+   "title": "Responsabilidad patrimonial de las Administraciones"
+  },
+  {
+   "id": "l40-age",
+   "title": "Organización de la Administración General del Estado"
+  },
+  {
+   "id": "l40-institucional",
+   "title": "Sector público institucional"
+  },
+  {
+   "id": "l40-relaciones",
+   "title": "Relaciones interadministrativas y convenios"
+  }
+ ],
+ "questions": [
+  {
+   "id": "l40-001",
+   "topic": "l40-principios",
+   "question": "La Ley 40/2015 regula, entre otras cosas:",
+   "options": [
+    "Las bases del régimen jurídico de las Administraciones Públicas y la organización de la Administración General del Estado",
+    "El procedimiento administrativo común",
+    "Los recursos administrativos",
+    "La iniciativa legislativa popular"
+   ],
+   "explanation": "Art. 1. El procedimiento común lo regula la Ley 39/2015."
+  },
+  {
+   "id": "l40-002",
+   "topic": "l40-principios",
+   "question": "¿Cuál de estos NO es un principio de actuación del artículo 3.1?",
+   "options": [
+    "Jerarquía de las normas",
+    "Servicio efectivo a los ciudadanos",
+    "Buena fe, confianza legítima y lealtad institucional",
+    "Eficiencia en la asignación y utilización de los recursos públicos"
+   ],
+   "explanation": "Art. 3.1."
+  },
+  {
+   "id": "l40-003",
+   "topic": "l40-principios",
+   "question": "Según el artículo 3, cada una de las Administraciones Públicas actúa para el cumplimiento de sus fines:",
+   "options": [
+    "Con personalidad jurídica única",
+    "Sin personalidad jurídica propia",
+    "Con tantas personalidades jurídicas como órganos tenga",
+    "Con la personalidad jurídica del Estado"
+   ],
+   "explanation": "Art. 3.4."
+  },
+  {
+   "id": "l40-004",
+   "topic": "l40-principios",
+   "question": "Las Administraciones se relacionan entre sí y con sus órganos a través de:",
+   "options": [
+    "Medios electrónicos",
+    "Correo postal certificado",
+    "Medios presenciales exclusivamente",
+    "El medio que elija cada funcionario"
+   ],
+   "explanation": "Art. 3.2."
+  },
+  {
+   "id": "l40-005",
+   "topic": "l40-principios",
+   "question": "Según el artículo 6, el incumplimiento de las instrucciones u órdenes de servicio:",
+   "options": [
+    "No afecta por sí solo a la validez de los actos, sin perjuicio de la responsabilidad disciplinaria",
+    "Hace nulos los actos dictados",
+    "Hace anulables los actos dictados",
+    "No tiene ninguna consecuencia"
+   ],
+   "explanation": "Art. 6.2."
+  },
+  {
+   "id": "l40-006",
+   "topic": "l40-competencia",
+   "question": "La competencia es:",
+   "options": [
+    "Irrenunciable y se ejerce por los órganos que la tengan atribuida como propia, salvo delegación o avocación",
+    "Renunciable a favor del superior jerárquico",
+    "Transferible libremente entre órganos",
+    "Delegable en cualquier caso"
+   ],
+   "explanation": "Art. 8.1."
+  },
+  {
+   "id": "l40-007",
+   "topic": "l40-competencia",
+   "question": "¿Qué materia NO se puede delegar según el artículo 9?",
+   "options": [
+    "La adopción de disposiciones de carácter general",
+    "La resolución de solicitudes de subvenciones",
+    "La firma de contratos menores",
+    "La concesión de licencias"
+   ],
+   "explanation": "Art. 9.2.b."
+  },
+  {
+   "id": "l40-008",
+   "topic": "l40-competencia",
+   "question": "Las resoluciones adoptadas por delegación:",
+   "options": [
+    "Indican esta circunstancia y se consideran dictadas por el órgano delegante",
+    "Se consideran dictadas por el órgano delegado",
+    "No necesitan indicar la delegación",
+    "Deben ser ratificadas por el delegante"
+   ],
+   "explanation": "Art. 9.4."
+  },
+  {
+   "id": "l40-009",
+   "topic": "l40-competencia",
+   "question": "La delegación de competencias:",
+   "options": [
+    "Es revocable en cualquier momento por el órgano que la haya conferido",
+    "Es irrevocable",
+    "Solo puede revocarse por ley",
+    "Solo puede revocarse tras un año"
+   ],
+   "explanation": "Art. 9.6."
+  },
+  {
+   "id": "l40-010",
+   "topic": "l40-competencia",
+   "question": "La avocación permite que:",
+   "options": [
+    "Un órgano superior asuma el conocimiento de un asunto que corresponde a un órgano dependiente",
+    "Un órgano inferior resuelva asuntos del superior",
+    "Un particular elija el órgano que resuelve",
+    "El Gobierno resuelva cualquier recurso"
+   ],
+   "explanation": "Art. 10.1. Debe ser motivada y no cabe recurso contra ella."
+  },
+  {
+   "id": "l40-011",
+   "topic": "l40-competencia",
+   "question": "La encomienda de gestión tiene por objeto:",
+   "options": [
+    "La realización de actividades de carácter material o técnico",
+    "La cesión de la titularidad de la competencia",
+    "La resolución de recursos",
+    "La aprobación de reglamentos"
+   ],
+   "explanation": "Art. 11.1. No supone cesión de la titularidad."
+  },
+  {
+   "id": "l40-012",
+   "topic": "l40-competencia",
+   "question": "No cabe la delegación de firma en:",
+   "options": [
+    "Las resoluciones de carácter sancionador",
+    "Las resoluciones de subvenciones",
+    "Los actos de trámite",
+    "Las comunicaciones internas"
+   ],
+   "explanation": "Art. 12."
+  },
+  {
+   "id": "l40-013",
+   "topic": "l40-competencia",
+   "question": "El órgano que se estime incompetente para resolver un asunto:",
+   "options": [
+    "Remite directamente las actuaciones al órgano que considere competente",
+    "Archiva el expediente",
+    "Lo devuelve al interesado",
+    "Declara la caducidad del procedimiento"
+   ],
+   "explanation": "Art. 14.1."
+  },
+  {
+   "id": "l40-014",
+   "topic": "l40-colegiados",
+   "question": "Para la válida constitución de un órgano colegiado se requiere la presencia del Presidente y del Secretario, o de quienes les suplan, y de:",
+   "options": [
+    "La mitad, al menos, de sus miembros",
+    "Dos tercios de sus miembros",
+    "Todos sus miembros",
+    "Un tercio de sus miembros"
+   ],
+   "explanation": "Art. 17.2."
+  },
+  {
+   "id": "l40-015",
+   "topic": "l40-colegiados",
+   "question": "Un asunto que no figure en el orden del día solo puede ser objeto de acuerdo si:",
+   "options": [
+    "Asisten todos los miembros y se declara la urgencia por mayoría",
+    "Lo propone el Presidente",
+    "Lo pide el Secretario",
+    "Asiste la mitad de los miembros"
+   ],
+   "explanation": "Art. 17.4."
+  },
+  {
+   "id": "l40-016",
+   "topic": "l40-colegiados",
+   "question": "En los órganos colegiados, los empates se dirimen con:",
+   "options": [
+    "El voto de calidad del Presidente",
+    "Un sorteo",
+    "Una nueva votación al día siguiente",
+    "El voto del Secretario"
+   ],
+   "explanation": "Art. 19.2.d."
+  },
+  {
+   "id": "l40-017",
+   "topic": "l40-colegiados",
+   "question": "El acta de cada sesión la levanta:",
+   "options": [
+    "El Secretario",
+    "El Presidente",
+    "El miembro de mayor edad",
+    "Un notario"
+   ],
+   "explanation": "Art. 18.1."
+  },
+  {
+   "id": "l40-018",
+   "topic": "l40-colegiados",
+   "question": "Los acuerdos de los órganos colegiados se adoptan, como regla general:",
+   "options": [
+    "Por mayoría de votos",
+    "Por unanimidad",
+    "Por mayoría de dos tercios",
+    "Por el Presidente en solitario"
+   ],
+   "explanation": "Art. 17.5."
+  },
+  {
+   "id": "l40-019",
+   "topic": "l40-abstencion",
+   "question": "Es motivo de abstención el parentesco con un interesado de:",
+   "options": [
+    "Consanguinidad dentro del cuarto grado o afinidad dentro del segundo",
+    "Consanguinidad dentro del segundo grado únicamente",
+    "Cualquier grado de parentesco",
+    "Afinidad dentro del cuarto grado únicamente"
+   ],
+   "explanation": "Art. 23.2.b."
+  },
+  {
+   "id": "l40-020",
+   "topic": "l40-abstencion",
+   "question": "¿Cuál de estos NO es motivo de abstención según el artículo 23?",
+   "options": [
+    "Haber nacido en la misma provincia que el interesado",
+    "Tener interés personal en el asunto",
+    "Tener amistad íntima o enemistad manifiesta con el interesado",
+    "Haber intervenido como perito o testigo en el procedimiento"
+   ],
+   "explanation": "Art. 23.2."
+  },
+  {
+   "id": "l40-021",
+   "topic": "l40-abstencion",
+   "question": "La actuación de una autoridad en la que concurra motivo de abstención:",
+   "options": [
+    "No implica necesariamente la invalidez de los actos en que haya intervenido",
+    "Hace nulos todos los actos",
+    "Hace anulables todos los actos",
+    "No tiene ninguna consecuencia disciplinaria"
+   ],
+   "explanation": "Art. 23.4. Sí puede dar lugar a responsabilidad."
+  },
+  {
+   "id": "l40-022",
+   "topic": "l40-abstencion",
+   "question": "La recusación puede promoverse por los interesados:",
+   "options": [
+    "En cualquier momento de la tramitación del procedimiento",
+    "Solo al inicio del procedimiento",
+    "Solo en el trámite de audiencia",
+    "Solo después de la resolución"
+   ],
+   "explanation": "Art. 24.1."
+  },
+  {
+   "id": "l40-023",
+   "topic": "l40-abstencion",
+   "question": "El superior debe resolver la recusación en el plazo de:",
+   "options": [
+    "Tres días",
+    "Diez días",
+    "Un mes",
+    "Quince días"
+   ],
+   "explanation": "Art. 24.4."
+  },
+  {
+   "id": "l40-024",
+   "topic": "l40-sancionadora",
+   "question": "El ejercicio de la potestad sancionadora requiere que esté reconocida por:",
+   "options": [
+    "Una norma con rango de ley",
+    "Un reglamento",
+    "Una orden ministerial",
+    "Una instrucción interna"
+   ],
+   "explanation": "Art. 25.1."
+  },
+  {
+   "id": "l40-025",
+   "topic": "l40-sancionadora",
+   "question": "Las disposiciones sancionadoras producen efecto retroactivo:",
+   "options": [
+    "Cuando favorezcan al presunto infractor o infractor",
+    "Nunca",
+    "Siempre",
+    "Solo en infracciones leves"
+   ],
+   "explanation": "Art. 26.2."
+  },
+  {
+   "id": "l40-026",
+   "topic": "l40-sancionadora",
+   "question": "Si la ley no fija otro plazo, las infracciones muy graves prescriben a los:",
+   "options": [
+    "Tres años",
+    "Dos años",
+    "Cinco años",
+    "Un año"
+   ],
+   "explanation": "Art. 30.1."
+  },
+  {
+   "id": "l40-027",
+   "topic": "l40-sancionadora",
+   "question": "Si la ley no fija otro plazo, las infracciones leves prescriben a los:",
+   "options": [
+    "Seis meses",
+    "Un año",
+    "Tres meses",
+    "Dos años"
+   ],
+   "explanation": "Art. 30.1."
+  },
+  {
+   "id": "l40-028",
+   "topic": "l40-sancionadora",
+   "question": "Si la ley no fija otro plazo, las sanciones impuestas por faltas leves prescriben al:",
+   "options": [
+    "Año",
+    "Mes",
+    "Medio año",
+    "Lustro"
+   ],
+   "explanation": "Art. 30.1."
+  },
+  {
+   "id": "l40-029",
+   "topic": "l40-sancionadora",
+   "question": "No pueden sancionarse los hechos que ya lo hayan sido penal o administrativamente cuando se aprecie identidad de:",
+   "options": [
+    "Sujeto, hecho y fundamento",
+    "Sujeto y lugar",
+    "Hecho y fecha",
+    "Órgano sancionador"
+   ],
+   "explanation": "Art. 31.1 (non bis in idem)."
+  },
+  {
+   "id": "l40-030",
+   "topic": "l40-responsabilidad",
+   "question": "Los particulares tienen derecho a ser indemnizados por toda lesión en sus bienes y derechos causada por:",
+   "options": [
+    "El funcionamiento normal o anormal de los servicios públicos",
+    "Solo el funcionamiento anormal de los servicios públicos",
+    "Solo los actos ilegales de la Administración",
+    "Cualquier hecho, incluida la fuerza mayor"
+   ],
+   "explanation": "Art. 32.1."
+  },
+  {
+   "id": "l40-031",
+   "topic": "l40-responsabilidad",
+   "question": "No hay responsabilidad patrimonial en casos de:",
+   "options": [
+    "Fuerza mayor o daños que el particular tenga el deber jurídico de soportar",
+    "Funcionamiento anormal del servicio",
+    "Daños causados por funcionarios",
+    "Daños personales"
+   ],
+   "explanation": "Art. 32.1."
+  },
+  {
+   "id": "l40-032",
+   "topic": "l40-responsabilidad",
+   "question": "Para ser indemnizable, el daño alegado debe ser:",
+   "options": [
+    "Efectivo, evaluable económicamente e individualizado",
+    "Solo moral",
+    "Futuro e incierto",
+    "Colectivo e indeterminado"
+   ],
+   "explanation": "Art. 32.2."
+  },
+  {
+   "id": "l40-033",
+   "topic": "l40-responsabilidad",
+   "question": "Para hacer efectiva la responsabilidad por daños causados por su personal, los particulares reclaman:",
+   "options": [
+    "Directamente a la Administración",
+    "Directamente al funcionario",
+    "Al Defensor del Pueblo",
+    "A la compañía de seguros del funcionario"
+   ],
+   "explanation": "Art. 36.1."
+  },
+  {
+   "id": "l40-034",
+   "topic": "l40-responsabilidad",
+   "question": "La Administración exige de oficio a su personal la responsabilidad en que haya incurrido cuando haya actuado con:",
+   "options": [
+    "Dolo, culpa o negligencia graves",
+    "Cualquier tipo de culpa",
+    "Culpa leve",
+    "Buena fe"
+   ],
+   "explanation": "Art. 36.2."
+  },
+  {
+   "id": "l40-035",
+   "topic": "l40-age",
+   "question": "Son órganos superiores de la Administración General del Estado:",
+   "options": [
+    "Los Ministros y los Secretarios de Estado",
+    "Los Subsecretarios y los Directores generales",
+    "Los Delegados del Gobierno",
+    "Los Subdirectores generales"
+   ],
+   "explanation": "Art. 55.3.a."
+  },
+  {
+   "id": "l40-036",
+   "topic": "l40-age",
+   "question": "¿Cuál de estos es un órgano directivo de la Administración General del Estado?",
+   "options": [
+    "El Director general",
+    "El Ministro",
+    "El Secretario de Estado",
+    "El Presidente del Gobierno"
+   ],
+   "explanation": "Art. 55.3.b: Subsecretarios, Secretarios generales, Secretarios generales técnicos, Directores generales y Subdirectores generales."
+  },
+  {
+   "id": "l40-037",
+   "topic": "l40-age",
+   "question": "En la organización territorial de la Administración General del Estado son órganos directivos:",
+   "options": [
+    "Los Delegados del Gobierno en las Comunidades Autónomas y los Subdelegados del Gobierno en las provincias",
+    "Los Ministros",
+    "Los alcaldes",
+    "Los Presidentes de las Comunidades Autónomas"
+   ],
+   "explanation": "Art. 55.5."
+  },
+  {
+   "id": "l40-038",
+   "topic": "l40-age",
+   "question": "Los Delegados del Gobierno en las Comunidades Autónomas se nombran por:",
+   "options": [
+    "Real decreto del Consejo de Ministros, a propuesta del Presidente del Gobierno",
+    "El Ministro del Interior",
+    "El Presidente de la Comunidad Autónoma",
+    "El Rey sin refrendo"
+   ],
+   "explanation": "Art. 72."
+  },
+  {
+   "id": "l40-039",
+   "topic": "l40-age",
+   "question": "Los Subdelegados del Gobierno en las provincias los nombra:",
+   "options": [
+    "El Delegado del Gobierno, por libre designación entre funcionarios de carrera",
+    "El Presidente del Gobierno",
+    "El Consejo de Ministros",
+    "El Presidente de la Diputación"
+   ],
+   "explanation": "Art. 75."
+  },
+  {
+   "id": "l40-040",
+   "topic": "l40-age",
+   "question": "Los Ministros ejercen la potestad reglamentaria:",
+   "options": [
+    "En las materias propias de su Departamento",
+    "En todas las materias",
+    "Solo en materia de personal",
+    "Solo si los autoriza el Rey"
+   ],
+   "explanation": "Art. 61.a."
+  },
+  {
+   "id": "l40-041",
+   "topic": "l40-institucional",
+   "question": "¿Qué entidad NO forma parte del sector público institucional estatal según el artículo 84?",
+   "options": [
+    "Las asociaciones privadas que reciban subvenciones",
+    "Los organismos autónomos",
+    "Las sociedades mercantiles estatales",
+    "Las fundaciones del sector público"
+   ],
+   "explanation": "Art. 84.1."
+  },
+  {
+   "id": "l40-042",
+   "topic": "l40-institucional",
+   "question": "Los organismos públicos vinculados o dependientes de la Administración General del Estado se clasifican en:",
+   "options": [
+    "Organismos autónomos y entidades públicas empresariales",
+    "Sociedades mercantiles y fundaciones",
+    "Consorcios y fondos",
+    "Agencias y universidades"
+   ],
+   "explanation": "Art. 88."
+  },
+  {
+   "id": "l40-043",
+   "topic": "l40-institucional",
+   "question": "Las autoridades administrativas independientes:",
+   "options": [
+    "Tienen atribuidas funciones de regulación o supervisión de carácter externo y actúan con independencia",
+    "Dependen jerárquicamente del Ministro",
+    "Son empresas privadas",
+    "Carecen de personalidad jurídica"
+   ],
+   "explanation": "Art. 109.1."
+  },
+  {
+   "id": "l40-044",
+   "topic": "l40-institucional",
+   "question": "Los consorcios son entidades:",
+   "options": [
+    "De derecho público con personalidad jurídica propia, creadas por varias Administraciones o entidades",
+    "De derecho privado sin personalidad jurídica",
+    "Formadas solo por empresas privadas",
+    "Que dependen del Poder Judicial"
+   ],
+   "explanation": "Art. 118.1."
+  },
+  {
+   "id": "l40-045",
+   "topic": "l40-institucional",
+   "question": "Una sociedad mercantil estatal es aquella en la que la participación directa o indirecta de la Administración General del Estado o sus entidades es:",
+   "options": [
+    "Superior al 50 % del capital social",
+    "Superior al 25 % del capital social",
+    "Del 100 % del capital social",
+    "Cualquiera, aunque sea minoritaria"
+   ],
+   "explanation": "Art. 111.1.a."
+  },
+  {
+   "id": "l40-046",
+   "topic": "l40-relaciones",
+   "question": "¿Cuál de estos NO es un principio de las relaciones interadministrativas del artículo 140?",
+   "options": [
+    "Jerarquía entre Administraciones",
+    "Lealtad institucional",
+    "Colaboración",
+    "Solidaridad interterritorial"
+   ],
+   "explanation": "Art. 140.1."
+  },
+  {
+   "id": "l40-047",
+   "topic": "l40-relaciones",
+   "question": "El máximo órgano de cooperación multilateral entre el Gobierno y los Presidentes de las Comunidades Autónomas es:",
+   "options": [
+    "La Conferencia de Presidentes",
+    "El Senado",
+    "La Conferencia Sectorial",
+    "El Consejo de Estado"
+   ],
+   "explanation": "Art. 146.1."
+  },
+  {
+   "id": "l40-048",
+   "topic": "l40-relaciones",
+   "question": "Los convenios tienen una duración determinada, que no puede ser superior a:",
+   "options": [
+    "Cuatro años, salvo que una norma prevea un plazo superior",
+    "Dos años",
+    "Diez años",
+    "Un año"
+   ],
+   "explanation": "Art. 49.h.1."
+  },
+  {
+   "id": "l40-049",
+   "topic": "l40-relaciones",
+   "question": "Antes de que termine su plazo, los convenios pueden prorrogarse:",
+   "options": [
+    "Hasta cuatro años adicionales, por acuerdo unánime de los firmantes",
+    "Indefinidamente",
+    "Una sola vez por un año",
+    "Solo por ley"
+   ],
+   "explanation": "Art. 49.h.2."
+  },
+  {
+   "id": "l40-050",
+   "topic": "l40-relaciones",
+   "question": "Las Conferencias Sectoriales son órganos de cooperación de composición multilateral entre:",
+   "options": [
+    "La Administración General del Estado y las Comunidades Autónomas en un ámbito sectorial",
+    "Los Ayuntamientos de una provincia",
+    "Los Ministerios entre sí",
+    "Las Cortes y el Gobierno"
+   ],
+   "explanation": "Art. 147.1."
+  }
+ ]
+}

@@ -42,7 +42,7 @@
     <string name="remove_ads">Treure els anuncis</string>
     <string name="privacy_options">Opcions de privadesa dels anuncis</string>
     <string name="about_title">Quant a</string>
-    <string name="about_text">Preguntes tipus test sobre la Constitució Espanyola per preparar oposicions. Les preguntes són en castellà, com als exàmens de l\'Administració General de l\'Estat. App independent, sense relació amb cap organisme públic.</string>
+    <string name="about_text">Preguntes tipus test sobre la Constitució Espanyola i les lleis 39/2015 i 40/2015 per preparar oposicions. Les preguntes són en castellà, com als exàmens de l\'Administració General de l\'Estat. App independent, sense relació amb cap organisme públic.</string>
     <string name="version">Versió %1$s</string>
     <plurals name="streak">
         <item quantity="one">🔥 %d dia seguit estudiant</item>

@@ -20,7 +20,15 @@ data class Question(
     val explanation: String,
 )
 
-data class QuestionBank(val title: String, val source: String, val topics: List<Topic>, val questions: List<Question>) {
+/** Un temario: la Constitución, una ley… [id] es estable y sirve para guardar el progreso y la mejor nota. */
+data class QuestionBank(
+    val id: String,
+    val shortTitle: String,
+    val title: String,
+    val source: String,
+    val topics: List<Topic>,
+    val questions: List<Question>,
+) {
     fun questionsOf(topicId: String): List<Question> = questions.filter { it.topicId == topicId }
 }
 
@@ -41,7 +49,15 @@ object QuestionBankParser {
             if (topic !in topicIds) throw QuestionBankFormatException("Tema desconocido: $topic")
             Question(item.text("id"), topic, item.text("question"), options.first(), options.drop(1), item.text("explanation"))
         }
-        QuestionBank(root.text("title"), root.text("source"), topics, questions)
+        val title = root.text("title")
+        QuestionBank(
+            id = root.optionalText("id") ?: title,
+            shortTitle = root.optionalText("shortTitle") ?: title,
+            title = title,
+            source = root.text("source"),
+            topics = topics,
+            questions = questions,
+        )
     } catch (e: SerializationException) {
         throw QuestionBankFormatException("JSON no válido", e)
     } catch (e: IllegalArgumentException) {
@@ -50,6 +66,8 @@ object QuestionBankParser {
 
     private fun JsonObject.array(key: String): JsonArray =
         this[key] as? JsonArray ?: throw QuestionBankFormatException("Falta $key")
+
+    private fun JsonObject.optionalText(key: String): String? = this[key]?.jsonPrimitive?.content
 
     private fun JsonObject.text(key: String): String =
         this[key]?.jsonPrimitive?.content ?: throw QuestionBankFormatException("Falta $key")
