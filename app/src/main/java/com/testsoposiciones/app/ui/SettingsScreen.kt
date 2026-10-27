@@ -25,6 +25,7 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalUriHandler
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import com.testsoposiciones.app.BuildConfig
@@ -77,6 +78,17 @@ fun SettingsScreen(
             HorizontalDivider(Modifier.padding(vertical = 16.dp))
             SectionTitle(stringResource(R.string.about_title))
             Text(stringResource(R.string.about_text), style = MaterialTheme.typography.bodyMedium)
+
+            // Google Play exige enlazar las fuentes oficiales de la información.
+            val uriHandler = LocalUriHandler.current
+            Text(
+                stringResource(R.string.source_title),
+                style = MaterialTheme.typography.labelLarge,
+                modifier = Modifier.padding(top = 12.dp),
+            )
+            OFFICIAL_SOURCES.forEach { (label, url) ->
+                TextButton(onClick = { uriHandler.openUri(url) }) { Text(stringResource(label)) }
+            }
             Text(
                 stringResource(R.string.version, BuildConfig.VERSION_NAME),
                 style = MaterialTheme.typography.labelSmall,
@@ -101,6 +113,12 @@ fun SettingsScreen(
         )
     }
 }
+
+private val OFFICIAL_SOURCES = listOf(
+    R.string.source_1 to "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    R.string.source_2 to "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+    R.string.source_3 to "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566",
+)
 
 @Composable
 private fun SectionTitle(text: String) {

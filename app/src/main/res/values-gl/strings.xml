@@ -43,6 +43,10 @@
     <string name="privacy_options">Opcións de privacidade dos anuncios</string>
     <string name="about_title">Acerca de</string>
     <string name="about_text">Preguntas tipo test sobre a Constitución Española e as leis 39/2015 e 40/2015 para preparar oposicións. As preguntas están en castelán, como nos exames da Administración Xeral do Estado. App independente, sen relación con ningún organismo público.</string>
+    <string name="source_title">Fontes oficiais</string>
+    <string name="source_1">Constitución Española (BOE)</string>
+    <string name="source_2">Lei 39/2015 (BOE)</string>
+    <string name="source_3">Lei 40/2015 (BOE)</string>
     <string name="version">Versión %1$s</string>
     <plurals name="streak">
         <item quantity="one">🔥 %d día seguido estudando</item>
