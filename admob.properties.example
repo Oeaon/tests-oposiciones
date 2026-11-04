@@ -4,3 +4,7 @@ BANNER=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
 INTERSTITIAL=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
 APP_OPEN=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
 REWARDED=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
+
+# Hashes de tus dispositivos y los de los testers, separados por comas. Reciben anuncios de prueba.
+# Salen en Logcat al pedir un anuncio: "Use RequestConfiguration.Builder().setTestDeviceIds(Arrays.asList("HASH"))".
+TEST_DEVICE_IDS=

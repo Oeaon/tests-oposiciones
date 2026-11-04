@@ -1,7 +1,9 @@
 package com.testsoposiciones.app.monetization
 
 import android.app.Activity
+import com.testsoposiciones.app.BuildConfig
 import com.google.android.gms.ads.MobileAds
+import com.google.android.gms.ads.RequestConfiguration
 import com.google.android.ump.ConsentInformation
 import com.google.android.ump.ConsentRequestParameters
 import com.google.android.ump.UserMessagingPlatform
@@ -43,6 +45,9 @@ object AdsConsent {
             onReady()
             return
         }
+        // Los dispositivos de prueba (TEST_DEVICE_IDS en admob.properties) nunca reciben anuncios reales.
+        val testDevices = BuildConfig.TEST_DEVICE_IDS.split(",").map { it.trim() }.filter { it.isNotEmpty() }
+        MobileAds.setRequestConfiguration(RequestConfiguration.Builder().setTestDeviceIds(testDevices).build())
         MobileAds.initialize(activity.applicationContext) {}
         onReady()
     }

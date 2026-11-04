@@ -20,6 +20,10 @@ val testAdIds = mapOf(
     "REWARDED" to "ca-app-pub-3940256099942544/5224354917",
 )
 val adUnits = listOf("BANNER", "INTERSTITIAL", "APP_OPEN", "REWARDED")
+
+// Hashes de tus móviles y los de los testers (TEST_DEVICE_IDS en admob.properties, separados por comas).
+// Esos dispositivos reciben anuncios de prueba aunque instalen la versión de Play.
+val testDeviceIds: String = admob.getProperty("TEST_DEVICE_IDS", "")
 val keystoreProperties = loadProperties("keystore.properties")
 
 android {
@@ -32,6 +36,7 @@ android {
         targetSdk = 36
         versionCode = 2
         versionName = "1.0.1"
+        buildConfigField("String", "TEST_DEVICE_IDS", "\"$testDeviceIds\"")
     }
 
     signingConfigs {
