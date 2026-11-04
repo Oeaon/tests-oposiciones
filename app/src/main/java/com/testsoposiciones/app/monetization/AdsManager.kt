@@ -24,7 +24,7 @@ import kotlinx.coroutines.launch
 /**
  * Anuncios a pantalla completa con límites de frecuencia:
  * - Intersticial: solo en pausas naturales que decide cada pantalla, como mucho cada [INTERSTITIAL_GAP_MS].
- * - App Open: al volver a la app desde segundo plano (nunca en el primer arranque, que es cuando sale el consentimiento).
+ * - App Open: al volver a la app desde segundo plano, como mucho cada 30 min (nunca en el primer arranque, que es cuando sale el consentimiento).
  * - Recompensado: solo cuando el usuario lo pide para desbloquear algo.
  * Con Premium no se carga ni se muestra nada.
  */
@@ -242,7 +242,7 @@ class AdsManager(
 
     private companion object {
         const val INTERSTITIAL_GAP_MS = 3 * 60 * 1000L
-        const val APP_OPEN_GAP_MS = 5 * 60 * 1000L
+        const val APP_OPEN_GAP_MS = 30 * 60 * 1000L
         const val APP_OPEN_EXPIRY_MS = 4 * 60 * 60 * 1000L
     }
 }
